@@ -16,8 +16,8 @@ The atomic piece of a Law as served by RIS — one Paragraph (§), Artikel, or A
 _Avoid_: Document, section, atomic unit
 
 **Headline**:
-A structural heading carried inside a Unit's content (Hauptstück, Abschnitt, unit title). RIS XML tags its level explicitly (g1, g2, …, para/art).
-_Avoid_: Title (reserved for the Law's Kurztitel)
+A structural group heading carried inside a Unit's content, assembled from one ordinal line plus its name lines ("Drittes Hauptstück — Rechte zwischen Eltern und Kindern"). Its depth is inferred from the heading text (Buch > Teil > Abtheilung > Hauptstück > Abschnitt > ordinals), not from the XML typ attribute, which only encodes font size.
+_Avoid_: Title (reserved for a Unit's own heading)
 
 **Path**:
 The ordered chain of group Headlines (g1, g2, …) from the Law root down to a Unit — the Unit's location, not its name. A Unit inherits the previous Unit's Path until a new Headline of the same level appears. The Unit's own Title is never part of the Path.
