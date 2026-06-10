@@ -1,0 +1,2095 @@
+{
+	"OgdSearchResult": {
+		"OgdDocumentResults": {
+			"Hits": {
+				"@pageNumber": "1",
+				"@pageSize": "20",
+				"#text": "16729"
+			},
+			"OgdDocumentReference": [
+				{
+					"Data": {
+						"Metadaten": {
+							"Technisch": {
+								"ID": "BGBLA_2023_II_318",
+								"Applikation": "BgblAuth",
+								"Organ": "BMI (Bundesministerium für Inneres)",
+								"Einbringer": "BMI (Bundesministerium für Inneres)",
+								"ImportTimestamp": {
+									"@xsi:nil": "true",
+									"@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
+								}
+							},
+							"Allgemein": {
+								"DokumentUrl": "https://www.ris.bka.gv.at/eli/bgbl/II/2023/318/20231102"
+							},
+							"Bundesrecht": {
+								"Kurztitel": "Änderung der Verordnung über die vorübergehende Wiedereinführung von Grenzkontrollen an den Binnengrenzen zur Slowakischen Republik",
+								"Titel": "Verordnung des Bundesministers für Inneres, mit der die Verordnung des Bundesministers für Inneres über die vorübergehende Wiedereinführung von Grenzkontrollen an den Binnengrenzen zur Slowakischen Republik geändert wird",
+								"Eli": "https://www.ris.bka.gv.at/eli/bgbl/II/2023/318/20231102",
+								"BgblAuth": {
+									"Bgblnummer": "BGBl. II Nr. 318/2023",
+									"Teil": "Teil2",
+									"Ausgabedatum": "2023-11-02",
+									"Typ": "Verordnung",
+									"AlteDokumentnummer": "BGBLA_2023_II_318"
+								}
+							}
+						},
+						"Dokumentliste": {
+							"ContentReference": {
+								"ContentType": "MainDocument",
+								"Name": "Hauptdokument",
+								"Urls": {
+									"ContentUrl": [
+										{
+											"DataType": "Xml",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_318/BGBLA_2023_II_318.xml"
+										},
+										{
+											"DataType": "Html",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_318/BGBLA_2023_II_318.html"
+										},
+										{
+											"DataType": "Rtf",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_318/BGBLA_2023_II_318.rtf"
+										},
+										{
+											"DataType": "Authentisch",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_318/BGBLA_2023_II_318.pdfsig"
+										}
+									]
+								}
+							}
+						}
+					}
+				},
+				{
+					"Data": {
+						"Metadaten": {
+							"Technisch": {
+								"ID": "BGBLA_2023_II_317",
+								"Applikation": "BgblAuth",
+								"Organ": "BMAW (Bundesministerium für Arbeit und Wirtschaft)",
+								"Einbringer": "BMAW (Bundesministerium für Arbeit und Wirtschaft)",
+								"ImportTimestamp": {
+									"@xsi:nil": "true",
+									"@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
+								}
+							},
+							"Allgemein": {
+								"DokumentUrl": "https://www.ris.bka.gv.at/eli/bgbl/II/2023/317/20231027"
+							},
+							"Bundesrecht": {
+								"Kurztitel": "Änderung der Gütereinsatzstatistik – Verordnung",
+								"Titel": "Verordnung des Bundesministers für Arbeit und Wirtschaft und des Bundesministers  für Land- und Forstwirtschaft, Regionen und Wasserwirtschaft, mit der die  Gütereinsatzstatistik – Verordnung geändert wird",
+								"Eli": "https://www.ris.bka.gv.at/eli/bgbl/II/2023/317/20231027",
+								"BgblAuth": {
+									"Bgblnummer": "BGBl. II Nr. 317/2023",
+									"Teil": "Teil2",
+									"Ausgabedatum": "2023-10-27",
+									"Typ": "Verordnung",
+									"AlteDokumentnummer": "BGBLA_2023_II_317"
+								}
+							}
+						},
+						"Dokumentliste": {
+							"ContentReference": {
+								"ContentType": "MainDocument",
+								"Name": "Hauptdokument",
+								"Urls": {
+									"ContentUrl": [
+										{
+											"DataType": "Xml",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_317/BGBLA_2023_II_317.xml"
+										},
+										{
+											"DataType": "Html",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_317/BGBLA_2023_II_317.html"
+										},
+										{
+											"DataType": "Rtf",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_317/BGBLA_2023_II_317.rtf"
+										},
+										{
+											"DataType": "Authentisch",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_317/BGBLA_2023_II_317.pdfsig"
+										}
+									]
+								}
+							}
+						}
+					}
+				},
+				{
+					"Data": {
+						"Metadaten": {
+							"Technisch": {
+								"ID": "BGBLA_2023_II_316",
+								"Applikation": "BgblAuth",
+								"Organ": "BMF (Bundesministerium für Finanzen)",
+								"Einbringer": "BMF (Bundesministerium für Finanzen)",
+								"ImportTimestamp": {
+									"@xsi:nil": "true",
+									"@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
+								}
+							},
+							"Allgemein": {
+								"DokumentUrl": "https://www.ris.bka.gv.at/eli/bgbl/II/2023/316/20231027"
+							},
+							"Bundesrecht": {
+								"Kurztitel": "Änderung der Voranschlags- und Rechnungsabschlussverordnung 2015",
+								"Titel": "Verordnung des Bundesministers für Finanzen, mit der die Voranschlags- und  Rechnungsabschlussverordnung 2015 – VRV 2015 geändert wird",
+								"Eli": "https://www.ris.bka.gv.at/eli/bgbl/II/2023/316/20231027",
+								"BgblAuth": {
+									"Bgblnummer": "BGBl. II Nr. 316/2023",
+									"Teil": "Teil2",
+									"Ausgabedatum": "2023-10-27",
+									"Typ": "Verordnung",
+									"AlteDokumentnummer": "BGBLA_2023_II_316"
+								}
+							}
+						},
+						"Dokumentliste": {
+							"ContentReference": [
+								{
+									"ContentType": "MainDocument",
+									"Name": "Hauptdokument",
+									"Urls": {
+										"ContentUrl": [
+											{
+												"DataType": "Xml",
+												"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/BGBLA_2023_II_316.xml"
+											},
+											{
+												"DataType": "Html",
+												"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/BGBLA_2023_II_316.html"
+											},
+											{
+												"DataType": "Rtf",
+												"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/BGBLA_2023_II_316.rtf"
+											},
+											{
+												"DataType": "Authentisch",
+												"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/BGBLA_2023_II_316.pdfsig"
+											}
+										]
+									}
+								},
+								{
+									"ContentType": "Attachment",
+									"Name": "Anlagen",
+									"Urls": {
+										"ContentUrl": [
+											{
+												"DataType": "Xml",
+												"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Anlagen_0001_539915F5_6E57_418B_BF56_2C9C44D1DC21.xml"
+											},
+											{
+												"DataType": "Html",
+												"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Anlagen_0001_539915F5_6E57_418B_BF56_2C9C44D1DC21.html"
+											},
+											{
+												"DataType": "Authentisch",
+												"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Anlagen_0001_539915F5_6E57_418B_BF56_2C9C44D1DC21.pdfsig"
+											}
+										]
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0001.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0001.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0002.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0002.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0003.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0003.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0004.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0004.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0005.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0005.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0006.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0006.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0007.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0007.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0008.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0008.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0009.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0009.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0010.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0010.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0011.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0011.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0012.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0012.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0013.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0013.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0014.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0014.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0015.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0015.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0016.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0016.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0017.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0017.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0018.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0018.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0019.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0019.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0020.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0020.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0021.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0021.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0022.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0022.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0023.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0023.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0024.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0024.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0025.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0025.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0026.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0026.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0027.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0027.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0028.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0028.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0029.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0029.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0030.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0030.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0031.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0031.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0032.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0032.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0033.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0033.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0034.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0034.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0035.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0035.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0036.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0036.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0037.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0037.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0038.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0038.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0039.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0039.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0040.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0040.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0041.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0041.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0042.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0042.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0043.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0043.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0044.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0044.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0045.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0045.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0046.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0046.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0047.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0047.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0048.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0048.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0049.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0049.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0050.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0050.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0051.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0051.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0052.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0052.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0053.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0053.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0054.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0054.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0055.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0055.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0056.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0056.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0057.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0057.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0058.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0058.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0059.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0059.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0060.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0060.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0061.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0061.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0062.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0062.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0063.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0063.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0064.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0064.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0065.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0065.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0066.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0066.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0067.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0067.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0068.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0068.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0069.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0069.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0070.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0070.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0071.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0071.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0072.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0072.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0073.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0073.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0074.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0074.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0075.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0075.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0076.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0076.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0077.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0077.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0078.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0078.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0079.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0079.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0080.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0080.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0081.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0081.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0082.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0082.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0083.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0083.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0084.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0084.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0085.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0085.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0086.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0086.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0087.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0087.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0088.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0088.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0089.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0089.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0090.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0090.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0091.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0091.gif"
+										}
+									}
+								},
+								{
+									"ContentType": "EmbeddedAttachment",
+									"Name": "Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0092.gif",
+									"Urls": {
+										"ContentUrl": {
+											"DataType": "Gif",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_316/Temp17d5514c-1937-425f-bc2c-9e9d810b24bc.0092.gif"
+										}
+									}
+								}
+							]
+						}
+					}
+				},
+				{
+					"Data": {
+						"Metadaten": {
+							"Technisch": {
+								"ID": "BGBLA_2023_II_315",
+								"Applikation": "BgblAuth",
+								"Organ": "BMI (Bundesministerium für Inneres)",
+								"Einbringer": "BMI (Bundesministerium für Inneres)",
+								"ImportTimestamp": {
+									"@xsi:nil": "true",
+									"@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
+								}
+							},
+							"Allgemein": {
+								"DokumentUrl": "https://www.ris.bka.gv.at/eli/bgbl/II/2023/315/20231027"
+							},
+							"Bundesrecht": {
+								"Kurztitel": "Änderung der Verordnung über die vorübergehende Wiedereinführung von Grenzkontrollen an den Binnengrenzen zur Tschechischen Republik",
+								"Titel": "Verordnung des Bundesministers für Inneres, mit der die Verordnung des Bundesministers für Inneres über die vorübergehende Wiedereinführung von Grenzkontrollen an den Binnengrenzen zur Tschechischen Republik geändert wird",
+								"Eli": "https://www.ris.bka.gv.at/eli/bgbl/II/2023/315/20231027",
+								"BgblAuth": {
+									"Bgblnummer": "BGBl. II Nr. 315/2023",
+									"Teil": "Teil2",
+									"Ausgabedatum": "2023-10-27",
+									"Typ": "Verordnung",
+									"AlteDokumentnummer": "BGBLA_2023_II_315"
+								}
+							}
+						},
+						"Dokumentliste": {
+							"ContentReference": {
+								"ContentType": "MainDocument",
+								"Name": "Hauptdokument",
+								"Urls": {
+									"ContentUrl": [
+										{
+											"DataType": "Xml",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_315/BGBLA_2023_II_315.xml"
+										},
+										{
+											"DataType": "Html",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_315/BGBLA_2023_II_315.html"
+										},
+										{
+											"DataType": "Rtf",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_315/BGBLA_2023_II_315.rtf"
+										},
+										{
+											"DataType": "Authentisch",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_315/BGBLA_2023_II_315.pdfsig"
+										}
+									]
+								}
+							}
+						}
+					}
+				},
+				{
+					"Data": {
+						"Metadaten": {
+							"Technisch": {
+								"ID": "BGBLA_2023_II_314",
+								"Applikation": "BgblAuth",
+								"Organ": "BMKOES (Bundesministerium für Kunst, Kultur, öffentlichen Dienst und Sport)",
+								"Einbringer": "BMKOES (Bundesministerium für Kunst, Kultur, öffentlichen Dienst und Sport)",
+								"ImportTimestamp": {
+									"@xsi:nil": "true",
+									"@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
+								}
+							},
+							"Allgemein": {
+								"DokumentUrl": "https://www.ris.bka.gv.at/eli/bgbl/II/2023/314/20231025"
+							},
+							"Bundesrecht": {
+								"Kurztitel": "Filmerbeverwahrungsverordnung",
+								"Titel": "Verordnung des Bundesministers für Kunst, Kultur, öffentlichen Dienst und Sport über die Bestimmung von Einrichtungen zur Verwahrung des filmkulturellen Erbes (Filmerbeverwahrungsverordnung – FilmerbeverwahrungsVO)",
+								"Eli": "https://www.ris.bka.gv.at/eli/bgbl/II/2023/314/20231025",
+								"BgblAuth": {
+									"Bgblnummer": "BGBl. II Nr. 314/2023",
+									"Teil": "Teil2",
+									"Ausgabedatum": "2023-10-25",
+									"Typ": "Verordnung",
+									"AlteDokumentnummer": "BGBLA_2023_II_314"
+								}
+							}
+						},
+						"Dokumentliste": {
+							"ContentReference": {
+								"ContentType": "MainDocument",
+								"Name": "Hauptdokument",
+								"Urls": {
+									"ContentUrl": [
+										{
+											"DataType": "Xml",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_314/BGBLA_2023_II_314.xml"
+										},
+										{
+											"DataType": "Html",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_314/BGBLA_2023_II_314.html"
+										},
+										{
+											"DataType": "Rtf",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_314/BGBLA_2023_II_314.rtf"
+										},
+										{
+											"DataType": "Authentisch",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_314/BGBLA_2023_II_314.pdfsig"
+										}
+									]
+								}
+							}
+						}
+					}
+				},
+				{
+					"Data": {
+						"Metadaten": {
+							"Technisch": {
+								"ID": "BGBLA_2023_II_313",
+								"Applikation": "BgblAuth",
+								"Organ": "BMSGPK (Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz)",
+								"Einbringer": "BMSGPK (Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz)",
+								"ImportTimestamp": {
+									"@xsi:nil": "true",
+									"@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
+								}
+							},
+							"Allgemein": {
+								"DokumentUrl": "https://www.ris.bka.gv.at/eli/bgbl/II/2023/313/20231024"
+							},
+							"Bundesrecht": {
+								"Kurztitel": "Übertragungsverordnung LWA-G – Sonderzuwendungen 2023 und 2024 II",
+								"Titel": "Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz zur Übertragung der Durchführung von Maßnahmen gemäß dem Bundesgesetz über einen Ausgleich inflationsbedingt hoher Lebenshaltungs- und Wohnkosten (Lebenshaltungs- und Wohnkosten-Ausgleichs-Gesetz – LWA-G, BGBl. I Nr. 93/2022 idF BGBl. I Nr. 119/2023) an den Landeshauptmann (Übertragungsverordnung LWA-G – Sonderzuwendungen 2023 und 2024 II)",
+								"Eli": "https://www.ris.bka.gv.at/eli/bgbl/II/2023/313/20231024",
+								"BgblAuth": {
+									"Bgblnummer": "BGBl. II Nr. 313/2023",
+									"Teil": "Teil2",
+									"Ausgabedatum": "2023-10-24",
+									"Typ": "Verordnung",
+									"AlteDokumentnummer": "BGBLA_2023_II_313"
+								}
+							}
+						},
+						"Dokumentliste": {
+							"ContentReference": {
+								"ContentType": "MainDocument",
+								"Name": "Hauptdokument",
+								"Urls": {
+									"ContentUrl": [
+										{
+											"DataType": "Xml",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_313/BGBLA_2023_II_313.xml"
+										},
+										{
+											"DataType": "Html",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_313/BGBLA_2023_II_313.html"
+										},
+										{
+											"DataType": "Rtf",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_313/BGBLA_2023_II_313.rtf"
+										},
+										{
+											"DataType": "Authentisch",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_313/BGBLA_2023_II_313.pdfsig"
+										}
+									]
+								}
+							}
+						}
+					}
+				},
+				{
+					"Data": {
+						"Metadaten": {
+							"Technisch": {
+								"ID": "BGBLA_2023_II_312",
+								"Applikation": "BgblAuth",
+								"Organ": "BMSGPK (Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz)",
+								"Einbringer": "BMSGPK (Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz)",
+								"ImportTimestamp": {
+									"@xsi:nil": "true",
+									"@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
+								}
+							},
+							"Allgemein": {
+								"DokumentUrl": "https://www.ris.bka.gv.at/eli/bgbl/II/2023/312/20231020"
+							},
+							"Bundesrecht": {
+								"Kurztitel": "Ausspruch des Verfassungsgerichtshofes vom 21. September 2023, dass die Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz über Maßnahmen bei der Einreise aus Nachbarstaaten, BGBl. II Nr. 87/2020, idF BGBl. II Nr. 92/2020 (§ 5, Anlage D), BGBl. II Nr. 129/2020 (§ 3a, Anlage E und Anlage F) und BGBl. II Nr. 149/2020 (§ 1 Abs. 1, § 2, § 4 und § 6) gesetzwidrig war",
+								"Titel": "Kundmachung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz über den Ausspruch des Verfassungsgerichtshofes vom 21. September 2023, dass die Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz über Maßnahmen bei der Einreise aus Nachbarstaaten, BGBl. II Nr. 87/2020, idF BGBl. II Nr. 92/2020 (§ 5, Anlage D), BGBl. II Nr. 129/2020 (§ 3a, Anlage E und Anlage F) und BGBl. II Nr. 149/2020 (§ 1 Abs. 1, § 2, § 4 und § 6) gesetzwidrig war",
+								"Eli": "https://www.ris.bka.gv.at/eli/bgbl/II/2023/312/20231020",
+								"BgblAuth": {
+									"Bgblnummer": "BGBl. II Nr. 312/2023",
+									"Teil": "Teil2",
+									"Ausgabedatum": "2023-10-20",
+									"Typ": "Verordnung",
+									"AlteDokumentnummer": "BGBLA_2023_II_312"
+								}
+							}
+						},
+						"Dokumentliste": {
+							"ContentReference": {
+								"ContentType": "MainDocument",
+								"Name": "Hauptdokument",
+								"Urls": {
+									"ContentUrl": [
+										{
+											"DataType": "Xml",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_312/BGBLA_2023_II_312.xml"
+										},
+										{
+											"DataType": "Html",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_312/BGBLA_2023_II_312.html"
+										},
+										{
+											"DataType": "Rtf",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_312/BGBLA_2023_II_312.rtf"
+										},
+										{
+											"DataType": "Authentisch",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_312/BGBLA_2023_II_312.pdfsig"
+										}
+									]
+								}
+							}
+						}
+					}
+				},
+				{
+					"Data": {
+						"Metadaten": {
+							"Technisch": {
+								"ID": "BGBLA_2023_I_126",
+								"Applikation": "BgblAuth",
+								"Organ": "BKA (Bundeskanzleramt)",
+								"Einbringer": "BKA (Bundeskanzleramt)",
+								"ImportTimestamp": {
+									"@xsi:nil": "true",
+									"@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
+								}
+							},
+							"Allgemein": {
+								"DokumentUrl": "https://www.ris.bka.gv.at/eli/bgbl/I/2023/126/20231019"
+							},
+							"Bundesrecht": {
+								"Kurztitel": "Aufhebung des § 3 Z 4 des Bundesgesetzes, mit dem Förderungen des Bundes aufgrund der COVID-19-Pandemie an das steuerliche Wohlverhalten geknüpft werden, durch den Verfassungsgerichtshof",
+								"Titel": "Kundmachung des Bundeskanzlers über die Aufhebung des § 3 Z 4 des Bundesgesetzes, mit dem Förderungen des Bundes aufgrund der COVID-19-Pandemie an das steuerliche Wohlverhalten geknüpft werden, durch den Verfassungsgerichtshof",
+								"Eli": "https://www.ris.bka.gv.at/eli/bgbl/I/2023/126/20231019",
+								"BgblAuth": {
+									"Bgblnummer": "BGBl. I Nr. 126/2023",
+									"Teil": "Teil1",
+									"Ausgabedatum": "2023-10-19",
+									"Typ": "Kundmachung",
+									"AlteDokumentnummer": "BGBLA_2023_I_126"
+								}
+							}
+						},
+						"Dokumentliste": {
+							"ContentReference": {
+								"ContentType": "MainDocument",
+								"Name": "Hauptdokument",
+								"Urls": {
+									"ContentUrl": [
+										{
+											"DataType": "Xml",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_I_126/BGBLA_2023_I_126.xml"
+										},
+										{
+											"DataType": "Html",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_I_126/BGBLA_2023_I_126.html"
+										},
+										{
+											"DataType": "Rtf",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_I_126/BGBLA_2023_I_126.rtf"
+										},
+										{
+											"DataType": "Authentisch",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_I_126/BGBLA_2023_I_126.pdfsig"
+										}
+									]
+								}
+							}
+						}
+					}
+				},
+				{
+					"Data": {
+						"Metadaten": {
+							"Technisch": {
+								"ID": "BGBLA_2023_I_125",
+								"Applikation": "BgblAuth",
+								"Organ": "BKA (Bundeskanzleramt)",
+								"Einbringer": "BKA (Bundeskanzleramt)",
+								"ImportTimestamp": {
+									"@xsi:nil": "true",
+									"@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
+								}
+							},
+							"Allgemein": {
+								"DokumentUrl": "https://www.ris.bka.gv.at/eli/bgbl/I/2023/125/20231019"
+							},
+							"Bundesrecht": {
+								"Kurztitel": "Aufhebung des § 2 Abs. 1 Z 3, § 2 Abs. 2 Z 7, § 2 Abs. 2a, § 3b Abs. 2 und § 6a des ABBAG-Gesetzes durch den Verfassungsgerichtshof",
+								"Titel": "Kundmachung des Bundeskanzlers über die Aufhebung des § 2 Abs. 1 Z 3, § 2 Abs. 2 Z 7, § 2 Abs. 2a, § 3b Abs. 2 und § 6a des ABBAG-Gesetzes durch den Verfassungsgerichtshof",
+								"Eli": "https://www.ris.bka.gv.at/eli/bgbl/I/2023/125/20231019",
+								"BgblAuth": {
+									"Bgblnummer": "BGBl. I Nr. 125/2023",
+									"Teil": "Teil1",
+									"Ausgabedatum": "2023-10-19",
+									"Typ": "Kundmachung",
+									"AlteDokumentnummer": "BGBLA_2023_I_125"
+								}
+							}
+						},
+						"Dokumentliste": {
+							"ContentReference": {
+								"ContentType": "MainDocument",
+								"Name": "Hauptdokument",
+								"Urls": {
+									"ContentUrl": [
+										{
+											"DataType": "Xml",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_I_125/BGBLA_2023_I_125.xml"
+										},
+										{
+											"DataType": "Html",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_I_125/BGBLA_2023_I_125.html"
+										},
+										{
+											"DataType": "Rtf",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_I_125/BGBLA_2023_I_125.rtf"
+										},
+										{
+											"DataType": "Authentisch",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_I_125/BGBLA_2023_I_125.pdfsig"
+										}
+									]
+								}
+							}
+						}
+					}
+				},
+				{
+					"Data": {
+						"Metadaten": {
+							"Technisch": {
+								"ID": "BGBLA_2023_II_311",
+								"Applikation": "BgblAuth",
+								"Organ": "BMAW (Bundesministerium für Arbeit und Wirtschaft)",
+								"Einbringer": "BMAW (Bundesministerium für Arbeit und Wirtschaft)",
+								"ImportTimestamp": {
+									"@xsi:nil": "true",
+									"@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
+								}
+							},
+							"Allgemein": {
+								"DokumentUrl": "https://www.ris.bka.gv.at/eli/bgbl/II/2023/311/20231019"
+							},
+							"Bundesrecht": {
+								"Kurztitel": "BEV-Grundausbildungsverordnung 2023",
+								"Titel": "Verordnung des Bundesministers für Arbeit und Wirtschaft über die Grundausbildung der Bediensteten im Bundesamt für Eich- und Vermessungswesen 2023 (BEV-Grundausbildungsverordnung 2023 – BEV-GA-V 2023)",
+								"Eli": "https://www.ris.bka.gv.at/eli/bgbl/II/2023/311/20231019",
+								"BgblAuth": {
+									"Bgblnummer": "BGBl. II Nr. 311/2023",
+									"Teil": "Teil2",
+									"Ausgabedatum": "2023-10-19",
+									"Typ": "Verordnung",
+									"AlteDokumentnummer": "BGBLA_2023_II_311"
+								}
+							}
+						},
+						"Dokumentliste": {
+							"ContentReference": {
+								"ContentType": "MainDocument",
+								"Name": "Hauptdokument",
+								"Urls": {
+									"ContentUrl": [
+										{
+											"DataType": "Xml",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_311/BGBLA_2023_II_311.xml"
+										},
+										{
+											"DataType": "Html",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_311/BGBLA_2023_II_311.html"
+										},
+										{
+											"DataType": "Rtf",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_311/BGBLA_2023_II_311.rtf"
+										},
+										{
+											"DataType": "Authentisch",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_311/BGBLA_2023_II_311.pdfsig"
+										}
+									]
+								}
+							}
+						}
+					}
+				},
+				{
+					"Data": {
+						"Metadaten": {
+							"Technisch": {
+								"ID": "BGBLA_2023_II_310",
+								"Applikation": "BgblAuth",
+								"Organ": "BMK (Bundesministerium für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie)",
+								"Einbringer": "BMK (Bundesministerium für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie)",
+								"ImportTimestamp": {
+									"@xsi:nil": "true",
+									"@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
+								}
+							},
+							"Allgemein": {
+								"DokumentUrl": "https://www.ris.bka.gv.at/eli/bgbl/II/2023/310/20231019"
+							},
+							"Bundesrecht": {
+								"Kurztitel": "Änderung der EAG-Marktprämienverordnung 2022",
+								"Titel": "Verordnung der Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie, mit der die EAG-Marktprämienverordnung 2022 geändert wird",
+								"Eli": "https://www.ris.bka.gv.at/eli/bgbl/II/2023/310/20231019",
+								"BgblAuth": {
+									"Bgblnummer": "BGBl. II Nr. 310/2023",
+									"Teil": "Teil2",
+									"Ausgabedatum": "2023-10-19",
+									"Typ": "Verordnung",
+									"AlteDokumentnummer": "BGBLA_2023_II_310"
+								}
+							}
+						},
+						"Dokumentliste": {
+							"ContentReference": {
+								"ContentType": "MainDocument",
+								"Name": "Hauptdokument",
+								"Urls": {
+									"ContentUrl": [
+										{
+											"DataType": "Xml",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_310/BGBLA_2023_II_310.xml"
+										},
+										{
+											"DataType": "Html",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_310/BGBLA_2023_II_310.html"
+										},
+										{
+											"DataType": "Rtf",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_310/BGBLA_2023_II_310.rtf"
+										},
+										{
+											"DataType": "Authentisch",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_310/BGBLA_2023_II_310.pdfsig"
+										}
+									]
+								}
+							}
+						}
+					}
+				},
+				{
+					"Data": {
+						"Metadaten": {
+							"Technisch": {
+								"ID": "BGBLA_2023_II_309",
+								"Applikation": "BgblAuth",
+								"Organ": "BMSGPK (Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz)",
+								"Einbringer": "BMSGPK (Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz)",
+								"ImportTimestamp": {
+									"@xsi:nil": "true",
+									"@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
+								}
+							},
+							"Allgemein": {
+								"DokumentUrl": "https://www.ris.bka.gv.at/eli/bgbl/II/2023/309/20231018"
+							},
+							"Bundesrecht": {
+								"Kurztitel": "Festsetzung des Anpassungsfaktors für das Jahr 2024",
+								"Titel": "Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz, mit der der Anpassungsfaktor für das Jahr 2024 festgesetzt wird",
+								"Eli": "https://www.ris.bka.gv.at/eli/bgbl/II/2023/309/20231018",
+								"BgblAuth": {
+									"Bgblnummer": "BGBl. II Nr. 309/2023",
+									"Teil": "Teil2",
+									"Ausgabedatum": "2023-10-18",
+									"Typ": "Verordnung",
+									"AlteDokumentnummer": "BGBLA_2023_II_309"
+								}
+							}
+						},
+						"Dokumentliste": {
+							"ContentReference": {
+								"ContentType": "MainDocument",
+								"Name": "Hauptdokument",
+								"Urls": {
+									"ContentUrl": [
+										{
+											"DataType": "Xml",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_309/BGBLA_2023_II_309.xml"
+										},
+										{
+											"DataType": "Html",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_309/BGBLA_2023_II_309.html"
+										},
+										{
+											"DataType": "Rtf",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_309/BGBLA_2023_II_309.rtf"
+										},
+										{
+											"DataType": "Authentisch",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_309/BGBLA_2023_II_309.pdfsig"
+										}
+									]
+								}
+							}
+						}
+					}
+				},
+				{
+					"Data": {
+						"Metadaten": {
+							"Technisch": {
+								"ID": "BGBLA_2023_II_308",
+								"Applikation": "BgblAuth",
+								"Organ": "BMI (Bundesministerium für Inneres)",
+								"Einbringer": "BMI (Bundesministerium für Inneres)",
+								"ImportTimestamp": {
+									"@xsi:nil": "true",
+									"@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
+								}
+							},
+							"Allgemein": {
+								"DokumentUrl": "https://www.ris.bka.gv.at/eli/bgbl/II/2023/308/20231017"
+							},
+							"Bundesrecht": {
+								"Kurztitel": "Vorübergehende Wiedereinführung von Grenzkontrollen an den Binnengrenzen zur Tschechischen Republik",
+								"Titel": "Verordnung des Bundesministers für Inneres über die vorübergehende Wiedereinführung von Grenzkontrollen an den Binnengrenzen zur Tschechischen Republik",
+								"Eli": "https://www.ris.bka.gv.at/eli/bgbl/II/2023/308/20231017",
+								"BgblAuth": {
+									"Bgblnummer": "BGBl. II Nr. 308/2023",
+									"Teil": "Teil2",
+									"Ausgabedatum": "2023-10-17",
+									"Typ": "Verordnung",
+									"AlteDokumentnummer": "BGBLA_2023_II_308"
+								}
+							}
+						},
+						"Dokumentliste": {
+							"ContentReference": {
+								"ContentType": "MainDocument",
+								"Name": "Hauptdokument",
+								"Urls": {
+									"ContentUrl": [
+										{
+											"DataType": "Xml",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_308/BGBLA_2023_II_308.xml"
+										},
+										{
+											"DataType": "Html",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_308/BGBLA_2023_II_308.html"
+										},
+										{
+											"DataType": "Rtf",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_308/BGBLA_2023_II_308.rtf"
+										},
+										{
+											"DataType": "Authentisch",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_II_308/BGBLA_2023_II_308.pdfsig"
+										}
+									]
+								}
+							}
+						}
+					}
+				},
+				{
+					"Data": {
+						"Metadaten": {
+							"Technisch": {
+								"ID": "BGBLA_2023_III_168",
+								"Applikation": "BgblAuth",
+								"Organ": "BMEIA (Bundesministerium für europäische und internationale Angelegenheiten)",
+								"Einbringer": "BMEIA (Bundesministerium für europäische und internationale Angelegenheiten)",
+								"ImportTimestamp": {
+									"@xsi:nil": "true",
+									"@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
+								}
+							},
+							"Allgemein": {
+								"DokumentUrl": "https://www.ris.bka.gv.at/eli/bgbl/III/2023/168/20231017"
+							},
+							"Bundesrecht": {
+								"Kurztitel": "Geltungsbereich des Mehrseitigen Übereinkommens zur Umsetzung steuerabkommensbezogener Maßnahmen zur Verhinderung der Gewinnverkürzung und Gewinnverlagerung",
+								"Titel": "Kundmachung der Bundesministerin für EU und Verfassung betreffend den Geltungsbereich des Mehrseitigen Übereinkommens zur Umsetzung steuerabkommensbezogener Maßnahmen zur Verhinderung der Gewinnverkürzung und Gewinnverlagerung",
+								"Eli": "https://www.ris.bka.gv.at/eli/bgbl/III/2023/168/20231017",
+								"BgblAuth": {
+									"Bgblnummer": "BGBl. III Nr. 168/2023",
+									"Teil": "Teil3",
+									"Ausgabedatum": "2023-10-17",
+									"Typ": "Kundmachung",
+									"AlteDokumentnummer": "BGBLA_2023_III_168"
+								}
+							}
+						},
+						"Dokumentliste": {
+							"ContentReference": {
+								"ContentType": "MainDocument",
+								"Name": "Hauptdokument",
+								"Urls": {
+									"ContentUrl": [
+										{
+											"DataType": "Xml",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_III_168/BGBLA_2023_III_168.xml"
+										},
+										{
+											"DataType": "Html",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_III_168/BGBLA_2023_III_168.html"
+										},
+										{
+											"DataType": "Rtf",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_III_168/BGBLA_2023_III_168.rtf"
+										},
+										{
+											"DataType": "Authentisch",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_III_168/BGBLA_2023_III_168.pdfsig"
+										}
+									]
+								}
+							}
+						}
+					}
+				},
+				{
+					"Data": {
+						"Metadaten": {
+							"Technisch": {
+								"ID": "BGBLA_2023_III_167",
+								"Applikation": "BgblAuth",
+								"Organ": "BMEIA (Bundesministerium für europäische und internationale Angelegenheiten)",
+								"Einbringer": "BMEIA (Bundesministerium für europäische und internationale Angelegenheiten)",
+								"ImportTimestamp": {
+									"@xsi:nil": "true",
+									"@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
+								}
+							},
+							"Allgemein": {
+								"DokumentUrl": "https://www.ris.bka.gv.at/eli/bgbl/III/2023/167/20231017"
+							},
+							"Bundesrecht": {
+								"Kurztitel": "Geltungsbereich des Protokolls von Nagoya über den Zugang zu genetischen Ressourcen und die ausgewogene und gerechte Aufteilung der sich aus ihrer Nutzung ergebenden Vorteile zum Übereinkommen über die biologische Vielfalt",
+								"Titel": "Kundmachung der Bundesministerin für EU und Verfassung betreffend den Geltungsbereich des Protokolls von Nagoya über den Zugang zu genetischen Ressourcen und die ausgewogene und gerechte Aufteilung der sich aus ihrer Nutzung ergebenden Vorteile zum Übereinkommen über die biologische Vielfalt",
+								"Eli": "https://www.ris.bka.gv.at/eli/bgbl/III/2023/167/20231017",
+								"BgblAuth": {
+									"Bgblnummer": "BGBl. III Nr. 167/2023",
+									"Teil": "Teil3",
+									"Ausgabedatum": "2023-10-17",
+									"Typ": "Kundmachung",
+									"AlteDokumentnummer": "BGBLA_2023_III_167"
+								}
+							}
+						},
+						"Dokumentliste": {
+							"ContentReference": {
+								"ContentType": "MainDocument",
+								"Name": "Hauptdokument",
+								"Urls": {
+									"ContentUrl": [
+										{
+											"DataType": "Xml",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_III_167/BGBLA_2023_III_167.xml"
+										},
+										{
+											"DataType": "Html",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_III_167/BGBLA_2023_III_167.html"
+										},
+										{
+											"DataType": "Rtf",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_III_167/BGBLA_2023_III_167.rtf"
+										},
+										{
+											"DataType": "Authentisch",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_III_167/BGBLA_2023_III_167.pdfsig"
+										}
+									]
+								}
+							}
+						}
+					}
+				},
+				{
+					"Data": {
+						"Metadaten": {
+							"Technisch": {
+								"ID": "BGBLA_2023_III_166",
+								"Applikation": "BgblAuth",
+								"Organ": "BMEIA (Bundesministerium für europäische und internationale Angelegenheiten)",
+								"Einbringer": "BMEIA (Bundesministerium für europäische und internationale Angelegenheiten)",
+								"ImportTimestamp": {
+									"@xsi:nil": "true",
+									"@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
+								}
+							},
+							"Allgemein": {
+								"DokumentUrl": "https://www.ris.bka.gv.at/eli/bgbl/III/2023/166/20231017"
+							},
+							"Bundesrecht": {
+								"Kurztitel": "Geltungsbereich der in Kigali beschlossenen Änderung des Montrealer Protokolls über Stoffe, die zu einem Abbau der Ozonschicht führen",
+								"Titel": "Kundmachung der Bundesministerin für EU und Verfassung betreffend den Geltungsbereich der in Kigali beschlossenen Änderung des Montrealer Protokolls über Stoffe, die zu einem Abbau der Ozonschicht führen",
+								"Eli": "https://www.ris.bka.gv.at/eli/bgbl/III/2023/166/20231017",
+								"BgblAuth": {
+									"Bgblnummer": "BGBl. III Nr. 166/2023",
+									"Teil": "Teil3",
+									"Ausgabedatum": "2023-10-17",
+									"Typ": "Kundmachung",
+									"AlteDokumentnummer": "BGBLA_2023_III_166"
+								}
+							}
+						},
+						"Dokumentliste": {
+							"ContentReference": {
+								"ContentType": "MainDocument",
+								"Name": "Hauptdokument",
+								"Urls": {
+									"ContentUrl": [
+										{
+											"DataType": "Xml",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_III_166/BGBLA_2023_III_166.xml"
+										},
+										{
+											"DataType": "Html",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_III_166/BGBLA_2023_III_166.html"
+										},
+										{
+											"DataType": "Rtf",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_III_166/BGBLA_2023_III_166.rtf"
+										},
+										{
+											"DataType": "Authentisch",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_III_166/BGBLA_2023_III_166.pdfsig"
+										}
+									]
+								}
+							}
+						}
+					}
+				},
+				{
+					"Data": {
+						"Metadaten": {
+							"Technisch": {
+								"ID": "BGBLA_2023_III_165",
+								"Applikation": "BgblAuth",
+								"Organ": "BMEIA (Bundesministerium für europäische und internationale Angelegenheiten)",
+								"Einbringer": "BMEIA (Bundesministerium für europäische und internationale Angelegenheiten)",
+								"ImportTimestamp": {
+									"@xsi:nil": "true",
+									"@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
+								}
+							},
+							"Allgemein": {
+								"DokumentUrl": "https://www.ris.bka.gv.at/eli/bgbl/III/2023/165/20231017"
+							},
+							"Bundesrecht": {
+								"Kurztitel": "Geltungsbereich des Übereinkommens über die Erhaltung der europäischen wildlebenden Pflanzen und Tiere und ihrer natürlichen Lebensräume",
+								"Titel": "Kundmachung der Bundesministerin für EU und Verfassung betreffend den Geltungsbereich des Übereinkommens über die Erhaltung der europäischen wildlebenden Pflanzen und Tiere und ihrer natürlichen Lebensräume",
+								"Eli": "https://www.ris.bka.gv.at/eli/bgbl/III/2023/165/20231017",
+								"BgblAuth": {
+									"Bgblnummer": "BGBl. III Nr. 165/2023",
+									"Teil": "Teil3",
+									"Ausgabedatum": "2023-10-17",
+									"Typ": "Kundmachung",
+									"AlteDokumentnummer": "BGBLA_2023_III_165"
+								}
+							}
+						},
+						"Dokumentliste": {
+							"ContentReference": {
+								"ContentType": "MainDocument",
+								"Name": "Hauptdokument",
+								"Urls": {
+									"ContentUrl": [
+										{
+											"DataType": "Xml",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_III_165/BGBLA_2023_III_165.xml"
+										},
+										{
+											"DataType": "Html",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_III_165/BGBLA_2023_III_165.html"
+										},
+										{
+											"DataType": "Rtf",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_III_165/BGBLA_2023_III_165.rtf"
+										},
+										{
+											"DataType": "Authentisch",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_III_165/BGBLA_2023_III_165.pdfsig"
+										}
+									]
+								}
+							}
+						}
+					}
+				},
+				{
+					"Data": {
+						"Metadaten": {
+							"Technisch": {
+								"ID": "BGBLA_2023_III_164",
+								"Applikation": "BgblAuth",
+								"Organ": "BMEIA (Bundesministerium für europäische und internationale Angelegenheiten)",
+								"Einbringer": "BMEIA (Bundesministerium für europäische und internationale Angelegenheiten)",
+								"ImportTimestamp": {
+									"@xsi:nil": "true",
+									"@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
+								}
+							},
+							"Allgemein": {
+								"DokumentUrl": "https://www.ris.bka.gv.at/eli/bgbl/III/2023/164/20231017"
+							},
+							"Bundesrecht": {
+								"Kurztitel": "Geltungsbereich des Übereinkommens über die Rechtsstellung der Staatenlosen",
+								"Titel": "Kundmachung der Bundesministerin für EU und Verfassung betreffend den Geltungsbereich des Übereinkommens über die Rechtsstellung der Staatenlosen",
+								"Eli": "https://www.ris.bka.gv.at/eli/bgbl/III/2023/164/20231017",
+								"BgblAuth": {
+									"Bgblnummer": "BGBl. III Nr. 164/2023",
+									"Teil": "Teil3",
+									"Ausgabedatum": "2023-10-17",
+									"Typ": "Kundmachung",
+									"AlteDokumentnummer": "BGBLA_2023_III_164"
+								}
+							}
+						},
+						"Dokumentliste": {
+							"ContentReference": {
+								"ContentType": "MainDocument",
+								"Name": "Hauptdokument",
+								"Urls": {
+									"ContentUrl": [
+										{
+											"DataType": "Xml",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_III_164/BGBLA_2023_III_164.xml"
+										},
+										{
+											"DataType": "Html",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_III_164/BGBLA_2023_III_164.html"
+										},
+										{
+											"DataType": "Rtf",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_III_164/BGBLA_2023_III_164.rtf"
+										},
+										{
+											"DataType": "Authentisch",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_III_164/BGBLA_2023_III_164.pdfsig"
+										}
+									]
+								}
+							}
+						}
+					}
+				},
+				{
+					"Data": {
+						"Metadaten": {
+							"Technisch": {
+								"ID": "BGBLA_2023_III_163",
+								"Applikation": "BgblAuth",
+								"Organ": "BMEIA (Bundesministerium für europäische und internationale Angelegenheiten)",
+								"Einbringer": "BMEIA (Bundesministerium für europäische und internationale Angelegenheiten)",
+								"ImportTimestamp": {
+									"@xsi:nil": "true",
+									"@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
+								}
+							},
+							"Allgemein": {
+								"DokumentUrl": "https://www.ris.bka.gv.at/eli/bgbl/III/2023/163/20231017"
+							},
+							"Bundesrecht": {
+								"Kurztitel": "Geltungsbereich des Übereinkommens über die Zuständigkeit der Behörden und das anzuwendende Recht auf dem Gebiet des Schutzes von Minderjährigen",
+								"Titel": "Kundmachung der Bundesministerin für EU und Verfassung betreffend den Geltungsbereich des Übereinkommens über die Zuständigkeit der Behörden und das anzuwendende Recht auf dem Gebiet des Schutzes von Minderjährigen",
+								"Eli": "https://www.ris.bka.gv.at/eli/bgbl/III/2023/163/20231017",
+								"BgblAuth": {
+									"Bgblnummer": "BGBl. III Nr. 163/2023",
+									"Teil": "Teil3",
+									"Ausgabedatum": "2023-10-17",
+									"Typ": "Kundmachung",
+									"AlteDokumentnummer": "BGBLA_2023_III_163"
+								}
+							}
+						},
+						"Dokumentliste": {
+							"ContentReference": {
+								"ContentType": "MainDocument",
+								"Name": "Hauptdokument",
+								"Urls": {
+									"ContentUrl": [
+										{
+											"DataType": "Xml",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_III_163/BGBLA_2023_III_163.xml"
+										},
+										{
+											"DataType": "Html",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_III_163/BGBLA_2023_III_163.html"
+										},
+										{
+											"DataType": "Rtf",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_III_163/BGBLA_2023_III_163.rtf"
+										},
+										{
+											"DataType": "Authentisch",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_III_163/BGBLA_2023_III_163.pdfsig"
+										}
+									]
+								}
+							}
+						}
+					}
+				},
+				{
+					"Data": {
+						"Metadaten": {
+							"Technisch": {
+								"ID": "BGBLA_2023_III_162",
+								"Applikation": "BgblAuth",
+								"Organ": "BMEIA (Bundesministerium für europäische und internationale Angelegenheiten)",
+								"Einbringer": "BMEIA (Bundesministerium für europäische und internationale Angelegenheiten)",
+								"ImportTimestamp": {
+									"@xsi:nil": "true",
+									"@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
+								}
+							},
+							"Allgemein": {
+								"DokumentUrl": "https://www.ris.bka.gv.at/eli/bgbl/III/2023/162/20231017"
+							},
+							"Bundesrecht": {
+								"Kurztitel": "Geltungsbereich des Übereinkommens zur Verminderung der Staatenlosigkeit",
+								"Titel": "Kundmachung der Bundesministerin für EU und Verfassung betreffend den Geltungsbereich des Übereinkommens zur Verminderung der Staatenlosigkeit",
+								"Eli": "https://www.ris.bka.gv.at/eli/bgbl/III/2023/162/20231017",
+								"BgblAuth": {
+									"Bgblnummer": "BGBl. III Nr. 162/2023",
+									"Teil": "Teil3",
+									"Ausgabedatum": "2023-10-17",
+									"Typ": "Kundmachung",
+									"AlteDokumentnummer": "BGBLA_2023_III_162"
+								}
+							}
+						},
+						"Dokumentliste": {
+							"ContentReference": {
+								"ContentType": "MainDocument",
+								"Name": "Hauptdokument",
+								"Urls": {
+									"ContentUrl": [
+										{
+											"DataType": "Xml",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_III_162/BGBLA_2023_III_162.xml"
+										},
+										{
+											"DataType": "Html",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_III_162/BGBLA_2023_III_162.html"
+										},
+										{
+											"DataType": "Rtf",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_III_162/BGBLA_2023_III_162.rtf"
+										},
+										{
+											"DataType": "Authentisch",
+											"Url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_III_162/BGBLA_2023_III_162.pdfsig"
+										}
+									]
+								}
+							}
+						}
+					}
+				}
+			]
+		}
+	}
+}

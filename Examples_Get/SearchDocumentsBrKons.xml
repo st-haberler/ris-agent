@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<soapenv:Header/>
+	<soapenv:Body>
+		<SearchDocuments xmlns="http://ris.bka.gv.at/ogd/V2_6">
+			<query>
+				<Suche>
+					<Bundesrecht>
+						<Suchworte>totschlag</Suchworte>
+						<BrKons>
+							<Fassung xsi:type="StichtagFassungsangabe">
+								<FassungVom>2023-11-07</FassungVom>
+							</Fassung>
+						</BrKons>
+						<DokumenteProSeite>Twenty</DokumenteProSeite>
+						<Seitennummer>1</Seitennummer>
+					</Bundesrecht>
+				</Suche>
+			</query>
+		</SearchDocuments>
+	</soapenv:Body>
+</soapenv:Envelope>

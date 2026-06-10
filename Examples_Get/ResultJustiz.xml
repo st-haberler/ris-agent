@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<soap:Body>
+		<SearchDocumentsResponse xmlns="http://ris.bka.gv.at/ogd/V2_6">
+			<SearchDocumentsResult status="ok">
+				<OgdDocumentResults>
+					<Hits pageNumber="1" pageSize="10">1</Hits>
+					<OgdDocumentReference>
+						<Data>
+							<Metadaten>
+								<Technisch>
+									<ID>JJR_20210707_OLG0009_03300R00011_21M0000_005</ID>
+									<Applikation>Justiz</Applikation>
+									<Organ>OLG Wien</Organ>
+									<ImportTimestamp xsi:nil="true"/>
+								</Technisch>
+								<Allgemein>
+									<Veroeffentlicht>2022-10-27</Veroeffentlicht>
+									<Geaendert>2023-07-21</Geaendert>
+									<DokumentUrl>https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&amp;Dokumentnummer=JJR_20210707_OLG0009_03300R00011_21M0000_005</DokumentUrl>
+								</Allgemein>
+								<Judikatur>
+									<Dokumenttyp>Rechtssatz</Dokumenttyp>
+									<Geschaeftszahl>
+										<item>33R11/21m</item>
+									</Geschaeftszahl>
+									<Normen>
+										<item>MSchG §10a</item>
+									</Normen>
+									<Entscheidungsdatum>2021-07-07</Entscheidungsdatum>
+									<EuropeanCaseLawIdentifier>ECLI:AT:OLG0009:2021:RW0001019</EuropeanCaseLawIdentifier>
+									<Justiz>
+										<Rechtsgebiete>
+											<item>Zivilrecht</item>
+										</Rechtsgebiete>
+										<Gericht>OLG Wien</Gericht>
+										<Rechtssatznummern>
+											<item>RW0001019</item>
+										</Rechtssatznummern>
+										<Anmerkung>Veröff ÖBl 2023/25, 80 (A. Stadler/Krickl)</Anmerkung>
+										<Entscheidungstexte>
+											<item>
+												<Geschaeftszahl>33 R 11/21m</Geschaeftszahl>
+												<Dokumenttyp>Text</Dokumenttyp>
+												<Gericht>OLG Wien</Gericht>
+												<Entscheidungsdatum>2021-07-07</Entscheidungsdatum>
+												<DokumentUrl>https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&amp;Dokumentnummer=JJT_20210707_OLG0009_03300R00011_21M0000_000</DokumentUrl>
+											</item>
+										</Entscheidungstexte>
+									</Justiz>
+								</Judikatur>
+							</Metadaten>
+							<Dokumentliste>
+								<ContentReference>
+									<ContentType>MainDocument</ContentType>
+									<Name>Hauptdokument</Name>
+									<Urls>
+										<ContentUrl>
+											<DataType>Xml</DataType>
+											<Url>https://www.ris.bka.gv.at/Dokumente/Justiz/JJR_20210707_OLG0009_03300R00011_21M0000_005/JJR_20210707_OLG0009_03300R00011_21M0000_005.xml</Url>
+										</ContentUrl>
+										<ContentUrl>
+											<DataType>Html</DataType>
+											<Url>https://www.ris.bka.gv.at/Dokumente/Justiz/JJR_20210707_OLG0009_03300R00011_21M0000_005/JJR_20210707_OLG0009_03300R00011_21M0000_005.html</Url>
+										</ContentUrl>
+										<ContentUrl>
+											<DataType>Pdf</DataType>
+											<Url>https://www.ris.bka.gv.at/Dokumente/Justiz/JJR_20210707_OLG0009_03300R00011_21M0000_005/JJR_20210707_OLG0009_03300R00011_21M0000_005.pdf</Url>
+										</ContentUrl>
+										<ContentUrl>
+											<DataType>Rtf</DataType>
+											<Url>https://www.ris.bka.gv.at/Dokumente/Justiz/JJR_20210707_OLG0009_03300R00011_21M0000_005/JJR_20210707_OLG0009_03300R00011_21M0000_005.rtf</Url>
+										</ContentUrl>
+									</Urls>
+								</ContentReference>
+							</Dokumentliste>
+						</Data>
+					</OgdDocumentReference>
+				</OgdDocumentResults>
+			</SearchDocumentsResult>
+		</SearchDocumentsResponse>
+	</soap:Body>
+</soap:Envelope>

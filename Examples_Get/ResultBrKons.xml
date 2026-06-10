@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<soap:Body>
+		<SearchDocumentsResponse xmlns="http://ris.bka.gv.at/ogd/V2_6">
+			<SearchDocumentsResult status="ok">
+				<OgdDocumentResults>
+					<Hits pageNumber="1" pageSize="20">8</Hits>
+					<OgdDocumentReference>
+						<Data>
+							<Metadaten>
+								<Technisch>
+									<ID>NOR12028624</ID>
+									<Applikation>BrKons</Applikation>
+									<Organ>BKA (Bundeskanzleramt)</Organ>
+									<ImportTimestamp xsi:nil="true"/>
+								</Technisch>
+								<Allgemein>
+									<Geaendert>2014-01-13</Geaendert>
+									<DokumentUrl>https://www.ris.bka.gv.at/eli/bgbl/1970/168/A3/NOR12028624</DokumentUrl>
+								</Allgemein>
+								<Bundesrecht>
+									<Kurztitel>Auslieferungsvertrag (Vereinigtes Königreich)</Kurztitel>
+									<Eli>https://www.ris.bka.gv.at/eli/bgbl/1970/168/A3/NOR12028624</Eli>
+									<BrKons>
+										<Kundmachungsorgan>BGBl. Nr. 168/1970</Kundmachungsorgan>
+										<Typ>Vertrag - Vereinigtes Königreich</Typ>
+										<Dokumenttyp>Paragraph</Dokumenttyp>
+										<ArtikelParagraphAnlage>Art. 3</ArtikelParagraphAnlage>
+										<Artikelnummer>3</Artikelnummer>
+										<StammnormPublikationsorgan>BGBl. Nr.</StammnormPublikationsorgan>
+										<StammnormBgblnummer>168/1970</StammnormBgblnummer>
+										<Inkrafttretensdatum>1970-08-12</Inkrafttretensdatum>
+										<Indizes>
+											<item>29/09 Auslieferung, Rechtshilfe in Strafsachen</item>
+										</Indizes>
+										<Aenderung/>
+										<Gesetzesnummer>10002184</Gesetzesnummer>
+										<AlteDokumentnummer>N2197022179S</AlteDokumentnummer>
+										<GesamteRechtsvorschriftUrl>https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&amp;Gesetzesnummer=10002184</GesamteRechtsvorschriftUrl>
+									</BrKons>
+								</Bundesrecht>
+							</Metadaten>
+							<Dokumentliste>
+								<ContentReference>
+									<ContentType>MainDocument</ContentType>
+									<Name>Hauptdokument</Name>
+									<Urls>
+										<ContentUrl>
+											<DataType>Xml</DataType>
+											<Url>https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR12028624/NOR12028624.xml</Url>
+										</ContentUrl>
+										<ContentUrl>
+											<DataType>Html</DataType>
+											<Url>https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR12028624/NOR12028624.html</Url>
+										</ContentUrl>
+										<ContentUrl>
+											<DataType>Pdf</DataType>
+											<Url>https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR12028624/NOR12028624.pdf</Url>
+										</ContentUrl>
+										<ContentUrl>
+											<DataType>Rtf</DataType>
+											<Url>https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR12028624/NOR12028624.rtf</Url>
+										</ContentUrl>
+									</Urls>
+								</ContentReference>
+							</Dokumentliste>
+						</Data>
+					</OgdDocumentReference>
+					<OgdDocumentReference>
+						<Data>
+							<Metadaten>
+								<Technisch>
+									<ID>NOR12066702</ID>
+									<Applikation>BrKons</Applikation>
+									<Organ>BKA (Bundeskanzleramt)</Organ>
+									<ImportTimestamp xsi:nil="true"/>
+								</Technisch>
+								<Allgemein>
+									<Geaendert>2014-06-13</Geaendert>
+									<DokumentUrl>https://www.ris.bka.gv.at/eli/bgbl/iii/1998/58/A2/NOR12066702</DokumentUrl>
+								</Allgemein>
+								<Bundesrecht>
+									<Kurztitel>Durchgangsverkehr von Exekutivorganen und die Durchbeförderung von Häftlingen (Deutschland)</Kurztitel>
+									<Eli>https://www.ris.bka.gv.at/eli/bgbl/iii/1998/58/A2/NOR12066702</Eli>
+									<BrKons>
+										<Kundmachungsorgan>BGBl. III Nr. 58/1998</Kundmachungsorgan>
+										<Typ>Vertrag - Deutschland</Typ>
+										<Dokumenttyp>Paragraph</Dokumenttyp>
+										<ArtikelParagraphAnlage>Art. 2</ArtikelParagraphAnlage>
+										<Artikelnummer>2</Artikelnummer>
+										<StammnormPublikationsorgan>BGBl. III Nr.</StammnormPublikationsorgan>
+										<StammnormBgblnummer>58/1998</StammnormBgblnummer>
+										<Inkrafttretensdatum>1998-05-01</Inkrafttretensdatum>
+										<Indizes>
+											<item>49/04 Grenzverkehr</item>
+										</Indizes>
+										<Aenderung/>
+										<Gesetzesnummer>10006068</Gesetzesnummer>
+										<AlteDokumentnummer>N4199811730U</AlteDokumentnummer>
+										<GesamteRechtsvorschriftUrl>https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&amp;Gesetzesnummer=10006068</GesamteRechtsvorschriftUrl>
+									</BrKons>
+								</Bundesrecht>
+							</Metadaten>
+							<Dokumentliste>
+								<ContentReference>
+									<ContentType>MainDocument</ContentType>
+									<Name>Hauptdokument</Name>
+									<Urls>
+										<ContentUrl>
+											<DataType>Xml</DataType>
+											<Url>https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR12066702/NOR12066702.xml</Url>
+										</ContentUrl>
+										<ContentUrl>
+											<DataType>Html</DataType>
+											<Url>https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR12066702/NOR12066702.html</Url>
+										</ContentUrl>
+										<ContentUrl>
+											<DataType>Pdf</DataType>
+											<Url>https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR12066702/NOR12066702.pdf</Url>
+										</ContentUrl>
+										<ContentUrl>
+											<DataType>Rtf</DataType>
+											<Url>https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR12066702/NOR12066702.rtf</Url>
+										</ContentUrl>
+									</Urls>
+								</ContentReference>
+							</Dokumentliste>
+						</Data>
+					</OgdDocumentReference>
+					<OgdDocumentReference>
+						<Data>
+							<Metadaten>
+								<Technisch>
+									<ID>NOR40200382</ID>
+									<Applikation>BrKons</Applikation>
+									<Organ>BKA (Bundeskanzleramt)</Organ>
+									<ImportTimestamp xsi:nil="true"/>
+								</Technisch>
+								<Allgemein>
+									<Veroeffentlicht>2018-02-14</Veroeffentlicht>
+									<Geaendert>2018-02-14</Geaendert>
+									<DokumentUrl>https://www.ris.bka.gv.at/eli/bgbl/iii/2018/22/A17/NOR40200382</DokumentUrl>
+								</Allgemein>
+								<Bundesrecht>
+									<Kurztitel>Europäisches Übereinkommen über die Rechtshilfe in Strafsachen – Zweites Zusatzprotokoll</Kurztitel>
+									<Eli>https://www.ris.bka.gv.at/eli/bgbl/iii/2018/22/A17/NOR40200382</Eli>
+									<BrKons>
+										<Kundmachungsorgan>BGBl. III Nr. 22/2018</Kundmachungsorgan>
+										<Typ>Vertrag - Mulilateral</Typ>
+										<Dokumenttyp>Paragraph</Dokumenttyp>
+										<ArtikelParagraphAnlage>Art. 17</ArtikelParagraphAnlage>
+										<Artikelnummer>17</Artikelnummer>
+										<StammnormPublikationsorgan>BGBl. III Nr.</StammnormPublikationsorgan>
+										<StammnormBgblnummer>22/2018</StammnormBgblnummer>
+										<Inkrafttretensdatum>2018-03-01</Inkrafttretensdatum>
+										<Indizes>
+											<item>29/09 Auslieferung, Rechtshilfe in Strafsachen</item>
+										</Indizes>
+										<Aenderung/>
+										<Schlagworte>Ratifikationsurkunde, Annahmeurkunde, Genehmigungsurkunde</Schlagworte>
+										<Gesetzesnummer>20010146</Gesetzesnummer>
+										<GesamteRechtsvorschriftUrl>https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&amp;Gesetzesnummer=20010146</GesamteRechtsvorschriftUrl>
+									</BrKons>
+								</Bundesrecht>
+							</Metadaten>
+							<Dokumentliste>
+								<ContentReference>
+									<ContentType>MainDocument</ContentType>
+									<Name>Hauptdokument</Name>
+									<Urls>
+										<ContentUrl>
+											<DataType>Xml</DataType>
+											<Url>https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40200382/NOR40200382.xml</Url>
+										</ContentUrl>
+										<ContentUrl>
+											<DataType>Html</DataType>
+											<Url>https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40200382/NOR40200382.html</Url>
+										</ContentUrl>
+										<ContentUrl>
+											<DataType>Pdf</DataType>
+											<Url>https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40200382/NOR40200382.pdf</Url>
+										</ContentUrl>
+										<ContentUrl>
+											<DataType>Rtf</DataType>
+											<Url>https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40200382/NOR40200382.rtf</Url>
+										</ContentUrl>
+									</Urls>
+								</ContentReference>
+							</Dokumentliste>
+						</Data>
+					</OgdDocumentReference>
+					<OgdDocumentReference>
+						<Data>
+							<Metadaten>
+								<Technisch>
+									<ID>NOR12066388</ID>
+									<Applikation>BrKons</Applikation>
+									<Organ>BKA (Bundeskanzleramt)</Organ>
+									<ImportTimestamp xsi:nil="true"/>
+								</Technisch>
+								<Allgemein>
+									<Geaendert>2020-05-20</Geaendert>
+									<DokumentUrl>https://www.ris.bka.gv.at/eli/bgbl/iii/1997/90/A40/NOR12066388</DokumentUrl>
+								</Allgemein>
+								<Bundesrecht>
+									<Kurztitel>Schengener Übereinkommen – Durchführung</Kurztitel>
+									<Eli>https://www.ris.bka.gv.at/eli/bgbl/iii/1997/90/A40/NOR12066388</Eli>
+									<BrKons>
+										<Kundmachungsorgan>BGBl. III Nr. 90/1997</Kundmachungsorgan>
+										<Typ>Vertrag – Multilateral</Typ>
+										<Dokumenttyp>Paragraph</Dokumenttyp>
+										<ArtikelParagraphAnlage>Art. 40</ArtikelParagraphAnlage>
+										<Artikelnummer>40</Artikelnummer>
+										<StammnormPublikationsorgan>BGBl. III Nr.</StammnormPublikationsorgan>
+										<StammnormBgblnummer>90/1997</StammnormBgblnummer>
+										<Inkrafttretensdatum>1997-12-01</Inkrafttretensdatum>
+										<Abkuerzung>SDÜ</Abkuerzung>
+										<Indizes>
+											<item>49/04 Grenzverkehr</item>
+										</Indizes>
+										<Aenderung/>
+										<Schlagworte>Nachrichtendienst</Schlagworte>
+										<Gesetzesnummer>10006045</Gesetzesnummer>
+										<AlteDokumentnummer>N4199763246J</AlteDokumentnummer>
+										<GesamteRechtsvorschriftUrl>https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&amp;Gesetzesnummer=10006045</GesamteRechtsvorschriftUrl>
+									</BrKons>
+								</Bundesrecht>
+							</Metadaten>
+							<Dokumentliste>
+								<ContentReference>
+									<ContentType>MainDocument</ContentType>
+									<Name>Hauptdokument</Name>
+									<Urls>
+										<ContentUrl>
+											<DataType>Xml</DataType>
+											<Url>https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR12066388/NOR12066388.xml</Url>
+										</ContentUrl>
+										<ContentUrl>
+											<DataType>Html</DataType>
+											<Url>https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR12066388/NOR12066388.html</Url>
+										</ContentUrl>
+										<ContentUrl>
+											<DataType>Pdf</DataType>
+											<Url>https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR12066388/NOR12066388.pdf</Url>
+										</ContentUrl>
+										<ContentUrl>
+											<DataType>Rtf</DataType>
+											<Url>https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR12066388/NOR12066388.rtf</Url>
+										</ContentUrl>
+									</Urls>
+								</ContentReference>
+							</Dokumentliste>
+						</Data>
+					</OgdDocumentReference>
+					<OgdDocumentReference>
+						<Data>
+							<Metadaten>
+								<Technisch>
+									<ID>NOR12066389</ID>
+									<Applikation>BrKons</Applikation>
+									<Organ>BKA (Bundeskanzleramt)</Organ>
+									<ImportTimestamp xsi:nil="true"/>
+								</Technisch>
+								<Allgemein>
+									<Geaendert>2020-05-20</Geaendert>
+									<DokumentUrl>https://www.ris.bka.gv.at/eli/bgbl/iii/1997/90/A41/NOR12066389</DokumentUrl>
+								</Allgemein>
+								<Bundesrecht>
+									<Kurztitel>Schengener Übereinkommen – Durchführung</Kurztitel>
+									<Eli>https://www.ris.bka.gv.at/eli/bgbl/iii/1997/90/A41/NOR12066389</Eli>
+									<BrKons>
+										<Kundmachungsorgan>BGBl. III Nr. 90/1997</Kundmachungsorgan>
+										<Typ>Vertrag – Multilateral</Typ>
+										<Dokumenttyp>Paragraph</Dokumenttyp>
+										<ArtikelParagraphAnlage>Art. 41</ArtikelParagraphAnlage>
+										<Artikelnummer>41</Artikelnummer>
+										<StammnormPublikationsorgan>BGBl. III Nr.</StammnormPublikationsorgan>
+										<StammnormBgblnummer>90/1997</StammnormBgblnummer>
+										<Inkrafttretensdatum>1997-12-01</Inkrafttretensdatum>
+										<Abkuerzung>SDÜ</Abkuerzung>
+										<Indizes>
+											<item>49/04 Grenzverkehr</item>
+										</Indizes>
+										<Aenderung/>
+										<Schlagworte>Nachrichtendienst</Schlagworte>
+										<Gesetzesnummer>10006045</Gesetzesnummer>
+										<AlteDokumentnummer>N4199763247J</AlteDokumentnummer>
+										<GesamteRechtsvorschriftUrl>https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&amp;Gesetzesnummer=10006045</GesamteRechtsvorschriftUrl>
+									</BrKons>
+								</Bundesrecht>
+							</Metadaten>
+							<Dokumentliste>
+								<ContentReference>
+									<ContentType>MainDocument</ContentType>
+									<Name>Hauptdokument</Name>
+									<Urls>
+										<ContentUrl>
+											<DataType>Xml</DataType>
+											<Url>https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR12066389/NOR12066389.xml</Url>
+										</ContentUrl>
+										<ContentUrl>
+											<DataType>Html</DataType>
+											<Url>https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR12066389/NOR12066389.html</Url>
+										</ContentUrl>
+										<ContentUrl>
+											<DataType>Pdf</DataType>
+											<Url>https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR12066389/NOR12066389.pdf</Url>
+										</ContentUrl>
+										<ContentUrl>
+											<DataType>Rtf</DataType>
+											<Url>https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR12066389/NOR12066389.rtf</Url>
+										</ContentUrl>
+									</Urls>
+								</ContentReference>
+							</Dokumentliste>
+						</Data>
+					</OgdDocumentReference>
+					<OgdDocumentReference>
+						<Data>
+							<Metadaten>
+								<Technisch>
+									<ID>NOR12029619</ID>
+									<Applikation>BrKons</Applikation>
+									<Organ>BKA (Bundeskanzleramt)</Organ>
+									<ImportTimestamp xsi:nil="true"/>
+								</Technisch>
+								<Allgemein>
+									<Geaendert>2015-09-14</Geaendert>
+									<DokumentUrl>https://www.ris.bka.gv.at/eli/bgbl/1974/60/P76/NOR12029619</DokumentUrl>
+								</Allgemein>
+								<Bundesrecht>
+									<Kurztitel>Strafgesetzbuch</Kurztitel>
+									<Eli>https://www.ris.bka.gv.at/eli/bgbl/1974/60/P76/NOR12029619</Eli>
+									<BrKons>
+										<Kundmachungsorgan>BGBl. Nr. 60/1974</Kundmachungsorgan>
+										<Typ>BG</Typ>
+										<Dokumenttyp>Paragraph</Dokumenttyp>
+										<ArtikelParagraphAnlage>§ 76</ArtikelParagraphAnlage>
+										<Paragraphnummer>76</Paragraphnummer>
+										<StammnormPublikationsorgan>BGBl. Nr.</StammnormPublikationsorgan>
+										<StammnormBgblnummer>60/1974</StammnormBgblnummer>
+										<Inkrafttretensdatum>1975-01-01</Inkrafttretensdatum>
+										<Abkuerzung>StGB</Abkuerzung>
+										<Indizes>
+											<item>24/01 Strafgesetzbuch</item>
+										</Indizes>
+										<Aenderung/>
+										<Schlagworte>Erregung</Schlagworte>
+										<Gesetzesnummer>10002296</Gesetzesnummer>
+										<AlteDokumentnummer>N2197415071T</AlteDokumentnummer>
+										<GesamteRechtsvorschriftUrl>https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&amp;Gesetzesnummer=10002296</GesamteRechtsvorschriftUrl>
+									</BrKons>
+								</Bundesrecht>
+							</Metadaten>
+							<Dokumentliste>
+								<ContentReference>
+									<ContentType>MainDocument</ContentType>
+									<Name>Hauptdokument</Name>
+									<Urls>
+										<ContentUrl>
+											<DataType>Xml</DataType>
+											<Url>https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR12029619/NOR12029619.xml</Url>
+										</ContentUrl>
+										<ContentUrl>
+											<DataType>Html</DataType>
+											<Url>https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR12029619/NOR12029619.html</Url>
+										</ContentUrl>
+										<ContentUrl>
+											<DataType>Pdf</DataType>
+											<Url>https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR12029619/NOR12029619.pdf</Url>
+										</ContentUrl>
+										<ContentUrl>
+											<DataType>Rtf</DataType>
+											<Url>https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR12029619/NOR12029619.rtf</Url>
+										</ContentUrl>
+									</Urls>
+								</ContentReference>
+							</Dokumentliste>
+						</Data>
+					</OgdDocumentReference>
+					<OgdDocumentReference>
+						<Data>
+							<Metadaten>
+								<Technisch>
+									<ID>NOR40177270</ID>
+									<Applikation>BrKons</Applikation>
+									<Organ>BKA (Bundeskanzleramt)</Organ>
+									<ImportTimestamp xsi:nil="true"/>
+								</Technisch>
+								<Allgemein>
+									<Veroeffentlicht>2015-12-29</Veroeffentlicht>
+									<Geaendert>2015-12-29</Geaendert>
+									<DokumentUrl>https://www.ris.bka.gv.at/eli/bgbl/1974/60/P274/NOR40177270</DokumentUrl>
+								</Allgemein>
+								<Bundesrecht>
+									<Kurztitel>Strafgesetzbuch</Kurztitel>
+									<Eli>https://www.ris.bka.gv.at/eli/bgbl/1974/60/P274/NOR40177270</Eli>
+									<BrKons>
+										<Kundmachungsorgan>BGBl. Nr. 60/1974 zuletzt geändert durch BGBl. I Nr. 154/2015 </Kundmachungsorgan>
+										<Typ>BG</Typ>
+										<Dokumenttyp>Paragraph</Dokumenttyp>
+										<ArtikelParagraphAnlage>§ 274</ArtikelParagraphAnlage>
+										<Paragraphnummer>274</Paragraphnummer>
+										<StammnormPublikationsorgan>BGBl. Nr.</StammnormPublikationsorgan>
+										<StammnormBgblnummer>60/1974</StammnormBgblnummer>
+										<NovellenPublikationsorgan>BGBl. I Nr.</NovellenPublikationsorgan>
+										<NovellenBgblnummer>154/2015</NovellenBgblnummer>
+										<NovellenBeziehung>zuletzt geändert durch</NovellenBeziehung>
+										<Inkrafttretensdatum>2016-01-01</Inkrafttretensdatum>
+										<Abkuerzung>StGB</Abkuerzung>
+										<Indizes>
+											<item>24/01 Strafgesetzbuch</item>
+										</Indizes>
+										<Aenderung/>
+										<Schlagworte>Randale, Aufruhr, Anführer, Menschenmasse, tätige Reue, Terrorismus, Attentat, Aufstand, Erfolgsabwendung</Schlagworte>
+										<Gesetzesnummer>10002296</Gesetzesnummer>
+										<GesamteRechtsvorschriftUrl>https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&amp;Gesetzesnummer=10002296</GesamteRechtsvorschriftUrl>
+									</BrKons>
+								</Bundesrecht>
+							</Metadaten>
+							<Dokumentliste>
+								<ContentReference>
+									<ContentType>MainDocument</ContentType>
+									<Name>Hauptdokument</Name>
+									<Urls>
+										<ContentUrl>
+											<DataType>Xml</DataType>
+											<Url>https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40177270/NOR40177270.xml</Url>
+										</ContentUrl>
+										<ContentUrl>
+											<DataType>Html</DataType>
+											<Url>https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40177270/NOR40177270.html</Url>
+										</ContentUrl>
+										<ContentUrl>
+											<DataType>Pdf</DataType>
+											<Url>https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40177270/NOR40177270.pdf</Url>
+										</ContentUrl>
+										<ContentUrl>
+											<DataType>Rtf</DataType>
+											<Url>https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40177270/NOR40177270.rtf</Url>
+										</ContentUrl>
+									</Urls>
+								</ContentReference>
+							</Dokumentliste>
+						</Data>
+					</OgdDocumentReference>
+					<OgdDocumentReference>
+						<Data>
+							<Metadaten>
+								<Technisch>
+									<ID>NOR40173762</ID>
+									<Applikation>BrKons</Applikation>
+									<Organ>BKA (Bundeskanzleramt)</Organ>
+									<ImportTimestamp xsi:nil="true"/>
+								</Technisch>
+								<Allgemein>
+									<Veroeffentlicht>2015-08-18</Veroeffentlicht>
+									<Geaendert>2022-10-05</Geaendert>
+									<DokumentUrl>https://www.ris.bka.gv.at/eli/bgbl/1975/631/P32/NOR40173762</DokumentUrl>
+								</Allgemein>
+								<Bundesrecht>
+									<Kurztitel>Strafprozeßordnung 1975</Kurztitel>
+									<Eli>https://ris.bka.gv.at/eli/bgbl/1975/631/P32/NOR40173762</Eli>
+									<BrKons>
+										<Kundmachungsorgan>BGBl. Nr. 631/1975 zuletzt geändert durch BGBl. I Nr. 112/2015 </Kundmachungsorgan>
+										<Typ>BG</Typ>
+										<Dokumenttyp>Paragraph</Dokumenttyp>
+										<ArtikelParagraphAnlage>§ 32</ArtikelParagraphAnlage>
+										<Paragraphnummer>32</Paragraphnummer>
+										<StammnormPublikationsorgan>BGBl. Nr.</StammnormPublikationsorgan>
+										<StammnormBgblnummer>631/1975</StammnormBgblnummer>
+										<NovellenPublikationsorgan>BGBl. I Nr.</NovellenPublikationsorgan>
+										<NovellenBgblnummer>112/2015</NovellenBgblnummer>
+										<NovellenBeziehung>zuletzt geändert durch</NovellenBeziehung>
+										<Inkrafttretensdatum>2016-01-01</Inkrafttretensdatum>
+										<Abkuerzung>StPO</Abkuerzung>
+										<Indizes>
+											<item>25/01 Strafprozess</item>
+										</Indizes>
+										<Aenderung/>
+										<Anmerkung>ÜR: Art. VI, BGBl. I Nr. 93/2007</Anmerkung>
+										<Schlagworte>BGBl. Nr. 256/1990</Schlagworte>
+										<Gesetzesnummer>10002326</Gesetzesnummer>
+										<GesamteRechtsvorschriftUrl>https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&amp;Gesetzesnummer=10002326</GesamteRechtsvorschriftUrl>
+									</BrKons>
+								</Bundesrecht>
+							</Metadaten>
+							<Dokumentliste>
+								<ContentReference>
+									<ContentType>MainDocument</ContentType>
+									<Name>Hauptdokument</Name>
+									<Urls>
+										<ContentUrl>
+											<DataType>Xml</DataType>
+											<Url>https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40173762/NOR40173762.xml</Url>
+										</ContentUrl>
+										<ContentUrl>
+											<DataType>Html</DataType>
+											<Url>https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40173762/NOR40173762.html</Url>
+										</ContentUrl>
+										<ContentUrl>
+											<DataType>Pdf</DataType>
+											<Url>https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40173762/NOR40173762.pdf</Url>
+										</ContentUrl>
+										<ContentUrl>
+											<DataType>Rtf</DataType>
+											<Url>https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40173762/NOR40173762.rtf</Url>
+										</ContentUrl>
+									</Urls>
+								</ContentReference>
+							</Dokumentliste>
+						</Data>
+					</OgdDocumentReference>
+				</OgdDocumentResults>
+			</SearchDocumentsResult>
+		</SearchDocumentsResponse>
+	</soap:Body>
+</soap:Envelope>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<soapenv:Header/>
+	<soapenv:Body>
+		<SearchDocuments xmlns="http://ris.bka.gv.at/ogd/V2_6">
+			<query>
+				<Suche>
+					<Judikatur>
+						<Suchworte>JJR_20210707_OLG0009_03300R00011_21M0000_005</Suchworte>
+						<Dokumenttyp>
+							<SucheInRechtssaetzen>true</SucheInRechtssaetzen>
+							<SucheInEntscheidungstexten>false</SucheInEntscheidungstexten>
+						</Dokumenttyp>
+						<EntscheidungsdatumVon>1800-01-01</EntscheidungsdatumVon>
+						<EntscheidungsdatumBis>2023-11-07</EntscheidungsdatumBis>
+						<Justiz>
+							<Gericht>OLG Wien</Gericht>
+							<Sortierung>
+								<SortDirection>Descending</SortDirection>
+								<SortedByColumn>Datum</SortedByColumn>
+							</Sortierung>
+						</Justiz>
+						<DokumenteProSeite>Ten</DokumenteProSeite>
+						<Seitennummer>1</Seitennummer>
+					</Judikatur>
+				</Suche>
+			</query>
+		</SearchDocuments>
+	</soapenv:Body>
+</soapenv:Envelope>
