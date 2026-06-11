@@ -100,6 +100,8 @@ def parse_law(law_dir: str | Path) -> dict:
     stack: dict[int, dict] = {}  # rank -> toc node currently open
     scope_key: tuple | None = None
     scope: dict | None = None
+    inherited_title: str | None = None  # last own Title within the current path
+    prev_path: list[str] | None = None
 
     for ref in law["units"]:
         parsed = _parse_unit_xml(law_dir / "raw" / f"{ref['nor_id']}.xml", ref)
@@ -108,6 +110,8 @@ def parse_law(law_dir: str | Path) -> dict:
         if scope is None or key != scope_key:
             scope_key = key
             stack = {}
+            inherited_title = None
+            prev_path = None
             scope = {
                 "kind": ref["kind"],
                 "source": ref["kundmachungsorgan"] if ref["kind"] != "main" else None,
@@ -127,9 +131,20 @@ def parse_law(law_dir: str | Path) -> dict:
 
         path = [stack[r]["headline"] for r in sorted(stack)]
         title = " — ".join(parsed.title_parts) or None
+        if path != prev_path:
+            inherited_title = None
+        if title:
+            inherited_title = title
+        effective_title = title or inherited_title
+        prev_path = path
         deepest = stack[max(stack)] if stack else scope
         deepest["units"].append(
-            {"nor_id": ref["nor_id"], "label": ref["label"], "title": title}
+            {
+                "nor_id": ref["nor_id"],
+                "label": ref["label"],
+                "title": title,
+                "effective_title": effective_title,
+            }
         )
 
         units_out.append(
@@ -138,6 +153,7 @@ def parse_law(law_dir: str | Path) -> dict:
                 "label": ref["label"],
                 "kind": ref["kind"],
                 "title": title,
+                "effective_title": effective_title,
                 "path": path,
                 "text": parsed.body,
             }

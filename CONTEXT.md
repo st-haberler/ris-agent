@@ -23,8 +23,11 @@ _Avoid_: Title (reserved for a Unit's own heading)
 The ordered chain of group Headlines (g1, g2, …) from the Law root down to a Unit — the Unit's location, not its name. A Unit inherits the previous Unit's Path until a new Headline of the same level appears. The Unit's own Title is never part of the Path.
 
 **Title**:
-A Unit's own heading (typ para/art, e.g. "Geltungsbereich"). Belongs to exactly one Unit and is never inherited.
+A Unit's own heading as carried in its XML (typ para/art, e.g. "Geltungsbereich"). Belongs to exactly one Unit. Many Units carry none — see Effective Title.
 _Avoid_: Headline (reserved for group headings)
+
+**Effective Title**:
+The Title in force for a Unit: its own Title if present, otherwise the Title of the nearest preceding Unit — but only while Path and Kind are unchanged. Any Path or Kind change resets the Effective Title to none. Reflects the RIS convention that a rubric governs all following Units until the next rubric.
 
 **Kind**:
 A Unit's classification: main-body norm, Übergangsrecht (transitional provision from an amendment act), or Anlage (appendix). All Kinds are included in output; Kind is metadata, never a filter at build time.
@@ -36,4 +39,4 @@ One Law fetched at its current Fassung (FassungVom = fetch date). v1 stores exac
 The component that fetches a Law's Unit list and Unit contents from the RIS OGD API (XML preferred).
 
 **Parser**:
-The component that extracts Headlines and computes Paths, producing the Unit list and the Headline tree.
+The component that extracts Headlines, computes Paths and Effective Titles, producing the Unit list and the Headline tree.

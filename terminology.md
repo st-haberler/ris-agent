@@ -1,0 +1,1 @@
+[ "delogieren", "räumen" ]: ["entfernen", "loswerden"]
