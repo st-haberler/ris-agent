@@ -35,6 +35,21 @@ A Unit's classification: main-body norm, Übergangsrecht (transitional provision
 **Snapshot**:
 One Law fetched at its current Fassung (FassungVom = fetch date). v1 stores exactly one Snapshot per Law; re-running replaces it.
 
+**Triage**:
+A classification step that runs before norm retrieval: it assigns the user's question first to a Rechtsgebiet, then (for Privatrecht) to an Anspruchsgrundlage area, and names the supporting Textbook passages that confirm or refute that assignment. Its result is presented to the user as its own labelled section; it never answers the legal question itself.
+
+**Rechtsgebiet**:
+Triage level 1: Privatrecht, Öffentliches Recht, or Keine eindeutige Zuordnung (covers both "unclear" and "genuinely mixed"; Triage states which in free text). Level 2 runs for Privatrecht and Keine eindeutige Zuordnung, never for clear Öffentliches Recht.
+
+**Anspruchsgrundlage (area)**:
+Triage level 2, the canonical claim-basis scheme: Vertrag, Vorvertragliches Verhältnis, Dingliches Recht, Absolutes Recht, Schadenersatz, Bereicherungsrecht, Erbrecht, Familienrechtlicher Anspruch — or "Kein Privatrechtsanspruch erkennbar". Canonical and textbook-independent; each Textbook maps these areas onto its own structure.
+
+**Textbook**:
+A parsed legal textbook (headline tree plus Passages) used by Triage to confirm or refute a classification guess. Never a source for the norm-based answer.
+
+**Passage**:
+The text content carried by one Textbook headline node. A Passage is always read together with its surrounding subtree, never in isolation.
+
 **Loader**:
 The component that fetches a Law's Unit list and Unit contents from the RIS OGD API (XML preferred).
 

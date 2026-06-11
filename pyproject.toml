@@ -17,6 +17,7 @@ agent = [
     "langchain>=1.0,<2.0",
     "langchain-core>=1.0,<2.0",
     "langchain-ollama>=0.3",
+    "pydantic>=2",
     "rich>=13",
 ]
 

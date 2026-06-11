@@ -9,7 +9,7 @@ import sys
 
 from rich.console import Console
 
-from . import tools
+from . import tools, triage
 from .agent import DEFAULT_MODEL, build_agent
 
 PREVIEW_LINES = 15
@@ -29,6 +29,11 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument(
         "-v", "--verbose", action="store_true", help="Tool-Ergebnisse ungekürzt zeigen"
     )
+    parser.add_argument(
+        "--no-triage",
+        action="store_true",
+        help="Lehrbuch-Triage überspringen (nur RIS-Agent)",
+    )
     args = parser.parse_args(argv)
 
     for nummer in tools.unparsed_laws(args.data):
@@ -44,6 +49,9 @@ def main(argv: list[str] | None = None) -> int:
 
 
 async def _run(args: argparse.Namespace) -> int:
+    if not args.no_triage:
+        _run_triage(args)
+
     agent = build_agent(model=args.model, data_dir=args.data)
     state = {"messages": [{"role": "user", "content": args.frage}]}
     config = {"recursion_limit": RECURSION_LIMIT}
@@ -87,6 +95,46 @@ async def _run(args: argparse.Namespace) -> int:
 
     end_text_block()
     return 0
+
+
+def _run_triage(args: argparse.Namespace) -> None:
+    """Print the triage section; failures never block the main agent."""
+    console.rule("Einordnung (Lehrbuch-Triage)")
+    try:
+        reports = triage.run_triage(args.frage, model=args.model, data_dir=args.data)
+    except triage.TriageError as exc:
+        console.print(f"[yellow]Einordnung fehlgeschlagen:[/] {exc}")
+        console.rule("Antwort (RIS-Agent)")
+        return
+    for report in reports:
+        console.print(f"[bold]Lehrbuch:[/] {report.textbook}")
+        console.print(f"[bold]Rechtsgebiet:[/] {report.rechtsgebiet}")
+        if report.anspruchsgrundlage is None:
+            console.print(
+                "[bold]Anspruchsgrundlage:[/] — (Stufe 2 entfällt)", highlight=False
+            )
+        else:
+            console.print(f"[bold]Anspruchsgrundlage:[/] {report.anspruchsgrundlage}")
+        for alt in report.alternativen:
+            console.print(
+                f"  verworfen: {alt.bereich} — {alt.verwerfungsgrund}",
+                style="dim",
+                markup=False,
+                highlight=False,
+            )
+        for beleg in report.belege:
+            seite = f" (S. {beleg.seite})" if beleg.seite else ""
+            console.print(
+                f"  Beleg: {beleg.pfad}{seite}",
+                style="dim",
+                markup=False,
+                highlight=False,
+            )
+        console.print(report.begruendung, style="dim", markup=False, highlight=False)
+    console.print(
+        "[dim]Hinweis: Einordnung anhand des Lehrbuchs, keine Rechtsauskunft.[/]"
+    )
+    console.rule("Antwort (RIS-Agent)")
 
 
 def _print_tool_result(message, verbose: bool) -> None:
