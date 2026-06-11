@@ -1,6 +1,6 @@
-# RIS Preprocessor
+# RIS Agent
 
-RIS is the online legal database of the Austrian Government. This project downloads consolidated federal laws (Bundesrecht konsolidiert) and turns them into structured units with headline paths, so that an LLM agent can later load only the relevant passages of a law into its context.
+RIS is the online legal database of the Austrian Government. This application is an experimental chat-bot that answerts legal questions on prompted factual situations using RAG techniques.  
 
 Terminology is defined in [CONTEXT.md](./CONTEXT.md).
 
