@@ -9,11 +9,11 @@ import sys
 
 from rich.console import Console
 
-from . import tools, triage
+from . import tools
 from .agent import DEFAULT_MODEL, build_agent
 
 PREVIEW_LINES = 15
-RECURSION_LIMIT = 25
+RECURSION_LIMIT = 40
 
 console = Console()
 
@@ -26,13 +26,9 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("frage", help="Sachverhalt und Rechtsfrage")
     parser.add_argument("--model", default=DEFAULT_MODEL, help="Ollama-Modell")
     parser.add_argument("--data", default="data", help="Datenverzeichnis")
+    parser.add_argument("--skills", default="skills", help="Skill-Verzeichnis")
     parser.add_argument(
         "-v", "--verbose", action="store_true", help="Tool-Ergebnisse ungekürzt zeigen"
-    )
-    parser.add_argument(
-        "--no-triage",
-        action="store_true",
-        help="Lehrbuch-Triage überspringen (nur RIS-Agent)",
     )
     args = parser.parse_args(argv)
 
@@ -49,14 +45,12 @@ def main(argv: list[str] | None = None) -> int:
 
 
 async def _run(args: argparse.Namespace) -> int:
-    if not args.no_triage:
-        _run_triage(args)
-
-    agent = build_agent(model=args.model, data_dir=args.data)
+    agent = build_agent(model=args.model, data_dir=args.data, skills_dir=args.skills)
     state = {"messages": [{"role": "user", "content": args.frage}]}
     config = {"recursion_limit": RECURSION_LIMIT}
 
     streaming_text = False  # an AI token stream is currently open on stdout
+    skill_loads: list[str] = []  # load_skill calls in order, failures marked
 
     def end_text_block() -> None:
         nonlocal streaming_text
@@ -64,6 +58,7 @@ async def _run(args: argparse.Namespace) -> int:
             console.print()
             streaming_text = False
 
+    console.rule("Antwort des Agenten")
     async for mode, chunk in agent.astream(
         state, stream_mode=["updates", "messages"], config=config
     ):
@@ -84,57 +79,33 @@ async def _run(args: argparse.Namespace) -> int:
             for message in (update or {}).get("messages", []):
                 if node == "tools":
                     end_text_block()
+                    if getattr(message, "name", None) == "load_skill":
+                        _note_skill_result(message, skill_loads)
                     _print_tool_result(message, args.verbose)
                 else:
                     for call in getattr(message, "tool_calls", []):
                         end_text_block()
+                        if call["name"] == "load_skill":
+                            name = str(call["args"].get("name", "?"))
+                            skill_loads.append(name)
+                            console.print(f"[bold green]\\[skill][/] {name}")
+                            continue
                         arguments = json.dumps(call["args"], ensure_ascii=False)
                         console.print(
                             f"[bold cyan]\\[tool call][/] {call['name']}({arguments})"
                         )
 
     end_text_block()
+    chain = " → ".join([f"{tools.ROOT_SKILL} (Wurzel)"] + skill_loads)
+    console.rule("Geladene Skills")
+    console.print(chain, highlight=False)
     return 0
 
 
-def _run_triage(args: argparse.Namespace) -> None:
-    """Print the triage section; failures never block the main agent."""
-    console.rule("Einordnung (Lehrbuch-Triage)")
-    try:
-        reports = triage.run_triage(args.frage, model=args.model, data_dir=args.data)
-    except triage.TriageError as exc:
-        console.print(f"[yellow]Einordnung fehlgeschlagen:[/] {exc}")
-        console.rule("Antwort (RIS-Agent)")
-        return
-    for report in reports:
-        console.print(f"[bold]Lehrbuch:[/] {report.textbook}")
-        console.print(f"[bold]Rechtsgebiet:[/] {report.rechtsgebiet}")
-        if report.anspruchsgrundlage is None:
-            console.print(
-                "[bold]Anspruchsgrundlage:[/] — (Stufe 2 entfällt)", highlight=False
-            )
-        else:
-            console.print(f"[bold]Anspruchsgrundlage:[/] {report.anspruchsgrundlage}")
-        for alt in report.alternativen:
-            console.print(
-                f"  verworfen: {alt.bereich} — {alt.verwerfungsgrund}",
-                style="dim",
-                markup=False,
-                highlight=False,
-            )
-        for beleg in report.belege:
-            seite = f" (S. {beleg.seite})" if beleg.seite else ""
-            console.print(
-                f"  Beleg: {beleg.pfad}{seite}",
-                style="dim",
-                markup=False,
-                highlight=False,
-            )
-        console.print(report.begruendung, style="dim", markup=False, highlight=False)
-    console.print(
-        "[dim]Hinweis: Einordnung anhand des Lehrbuchs, keine Rechtsauskunft.[/]"
-    )
-    console.rule("Antwort (RIS-Agent)")
+def _note_skill_result(message, skill_loads: list[str]) -> None:
+    """Mark the most recent pending load as failed if the tool said so."""
+    if str(message.content).startswith("Unbekannter Skill") and skill_loads:
+        skill_loads[-1] += " (fehlgeschlagen)"
 
 
 def _print_tool_result(message, verbose: bool) -> None:

@@ -36,7 +36,7 @@ A Unit's classification: main-body norm, Übergangsrecht (transitional provision
 One Law fetched at its current Fassung (FassungVom = fetch date). v1 stores exactly one Snapshot per Law; re-running replaces it.
 
 **Triage**:
-A classification step that runs before norm retrieval: it assigns the user's question first to a Rechtsgebiet, then (for Privatrecht) to an Anspruchsgrundlage area, and names the supporting Textbook passages that confirm or refute that assignment. Its result is presented to the user as its own labelled section; it never answers the legal question itself.
+The classification step at the start of an agent run, implemented by the root Skill: it assigns the user's question first to a Rechtsgebiet, then (for Privatrecht) to an Anspruchsgrundlage area, and routes into the matching branch of the Skill graph. It never answers the legal question itself. The former standalone triage code path (textbook-backed confirmation, own labelled section) is retired; Textbooks may return later as a Skill-directed source.
 
 **Rechtsgebiet**:
 Triage level 1: Privatrecht, Öffentliches Recht, or Keine eindeutige Zuordnung (covers both "unclear" and "genuinely mixed"; Triage states which in free text). Level 2 runs for Privatrecht and Keine eindeutige Zuordnung, never for clear Öffentliches Recht.
@@ -49,6 +49,10 @@ A parsed legal textbook (headline tree plus Passages) used by Triage to confirm 
 
 **Passage**:
 The text content carried by one Textbook headline node. A Passage is always read together with its surrounding subtree, never in isolation.
+
+**Skill**:
+A versioned markdown instruction module at `skills/<name>/SKILL.md` (repo root, not `data/`): YAML frontmatter with exactly `name` and `description`, German body. The description is the routing signal shown to the agent; the body is the working instruction loaded on demand. Skills name other Skills, forming the traversal graph. The root Skill is baked into the system prompt; every other Skill is visible only once a loaded parent names it (gated tree).
+_Avoid_: the dev-tooling skills tracked in `skills-lock.json` (LangChain docs for code generation) — unrelated.
 
 **Loader**:
 The component that fetches a Law's Unit list and Unit contents from the RIS OGD API (XML preferred).

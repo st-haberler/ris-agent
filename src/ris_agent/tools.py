@@ -248,6 +248,46 @@ def load_units(
     return "\n\n".join(blocks)
 
 
+# --- skills (see plans/skills.md) ----------------------------------------------
+
+SKILLS_DIR = "skills"
+ROOT_SKILL = "start"
+
+
+def skill_names(skills_dir: str | Path = SKILLS_DIR) -> list[str]:
+    """Names of all Skills (directories containing a SKILL.md)."""
+    folder = Path(skills_dir)
+    if not folder.is_dir():
+        return []
+    return sorted(p.parent.name for p in folder.glob("*/SKILL.md"))
+
+
+def _strip_frontmatter(text: str) -> str:
+    """Body without the YAML frontmatter block (name/description are routing
+    metadata; only the body instructs the model)."""
+    if text.startswith("---\n"):
+        end = text.find("\n---\n", 4)
+        if end != -1:
+            return text[end + 5 :].lstrip("\n")
+    return text
+
+
+def load_skill(name: str, skills_dir: str | Path = SKILLS_DIR) -> str:
+    """Body of one Skill, prefixed with a header line for the transcript."""
+    name = name.strip()
+    path = Path(skills_dir) / name / "SKILL.md"
+    if not path.exists():
+        known = ", ".join(skill_names(skills_dir)) or "keine"
+        raise ValueError(f"Unbekannter Skill {name!r}. Verfügbar: {known}")
+    body = _strip_frontmatter(path.read_text(encoding="utf-8"))
+    return f"=== Skill: {name} ===\n{body}"
+
+
+def root_skill_body(skills_dir: str | Path = SKILLS_DIR) -> str:
+    """Body of the root Skill, baked into the system prompt by build_agent."""
+    return load_skill(ROOT_SKILL, skills_dir)
+
+
 # --- textbook tools (Triage, see plans/triage.md) ------------------------------
 
 

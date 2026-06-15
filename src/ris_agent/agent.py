@@ -1,4 +1,5 @@
-"""LangChain agent over the retrieval tools (see plans/agent-tools.md)."""
+"""LangChain agent over the retrieval tools and the Skill tree
+(see plans/agent-tools.md and plans/skills.md)."""
 
 from __future__ import annotations
 
@@ -7,13 +8,14 @@ from langchain_core.tools import tool
 from langchain_ollama import ChatOllama
 
 from . import tools
-from .agent_prompts.system_prompt import SYSTEM_PROMPT
+from .agent_prompts.system_prompt import build_system_prompt
 
 DEFAULT_MODEL = "gemma4:31b-mlx"
 
 
-
-def build_agent(model: str = DEFAULT_MODEL, data_dir: str = "data"):
+def build_agent(
+    model: str = DEFAULT_MODEL, data_dir: str = "data", skills_dir: str = "skills"
+):
     """create_agent wired to the retrieval tools, bound to one data directory."""
 
     @tool
@@ -52,9 +54,23 @@ def build_agent(model: str = DEFAULT_MODEL, data_dir: str = "data"):
         except ValueError as exc:
             return str(exc)
 
+    @tool
+    def load_skill(name: str) -> str:
+        """Lädt einen Skill (verbindliche Arbeitsanweisung) und gibt seinen
+        Inhalt zurück.
+
+        Args:
+            name: Skill-Name. Nur Namen verwenden, die ein bereits geladener
+                Skill im Abschnitt "Anschluss-Skills" nennt.
+        """
+        try:
+            return tools.load_skill(name, skills_dir=skills_dir)
+        except ValueError as exc:
+            return str(exc)
+
     llm = ChatOllama(model=model, temperature=0.2)
     return create_agent(
         model=llm,
-        tools=[list_laws, find_units, load_units],
-        system_prompt=SYSTEM_PROMPT,
+        tools=[list_laws, find_units, load_units, load_skill],
+        system_prompt=build_system_prompt(tools.root_skill_body(skills_dir)),
     )
