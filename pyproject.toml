@@ -1,5 +1,5 @@
 [project]
-name = "ris-preprocessor"
+name = "RIS_Agent"
 version = "0.1.0"
 description = "Download and structure Austrian laws from the RIS OGD API"
 readme = "README.md"
@@ -11,6 +11,7 @@ dependencies = [
 [project.scripts]
 ris-preprocessor = "ris_preprocessor.cli:main"
 ris-agent = "ris_agent.cli:main"
+alt = "ris_agent.alt:main"
 
 [dependency-groups]
 agent = [
