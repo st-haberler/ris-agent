@@ -10,15 +10,14 @@ Anspruchsgrundlagen-Bereich zu und lädt genau einen Anschluss-Skill. Die Triage
 beantwortet die Rechtsfrage nicht.
 
 ## Ablauf
-1. Sachverhalt lesen. Rechtsgebiet bestimmen: Privatrecht, Öffentliches Recht
-   oder keine eindeutige Zuordnung.
+1. Sachverhalt lesen. Rechtsgebiet bestimmen: Privatrecht, Öffentliches Recht oder keine eindeutige Zuordnung. Zuordnung muss aus dem Sachverhalt begründet werden. 
 2. Bei Privatrecht und bei unklarer Zuordnung: Anspruchsgrundlagen-Bereich
    bestimmen — Vertrag, Vorvertragliches Verhältnis, Dingliches Recht,
    Absolutes Recht, Schadenersatz, Bereicherungsrecht, Erbrecht,
    Familienrechtlicher Anspruch. Bei klarem Öffentlichem Recht entfällt
    diese Stufe.
-3. Die Einordnung in einem Satz festhalten; sie wird der Abschnitt
-   "Einordnung" am Anfang der Antwort.
+3. Die Einordnung in einem Satz und einer kurzen Begründung festhalten; sie wird der Abschnitt
+   "Einordnung" am Anfang der Antwort, gleich darunter steht: "Begründung" mit der Begründung.
 4. Genau einen Anschluss-Skill mit load_skill laden und dessen Anweisungen
    befolgen. Bei mehreren plausiblen Ästen den wahrscheinlichsten wählen und
    die Annahme in der Antwort ausweisen.

@@ -20,6 +20,7 @@ agent = [
     "langchain-google-genai>=2.0",
     "langchain-ollama>=0.3",
     "pydantic>=2",
+    "python-dotenv>=1.2.2",
     "rich>=13",
 ]
 

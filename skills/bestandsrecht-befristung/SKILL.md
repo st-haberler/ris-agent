@@ -19,6 +19,7 @@ Lage bei Ablauf (Verlängerung, stillschweigende Erneuerung, Auflösung).
    ausweisen.
 4. Außerhalb des MRG: Ablauf und Erneuerung nach ABGB prüfen, insbesondere
    stillschweigende Erneuerung (§§ 1114, 1115 ABGB).
+4. Auf jeden Fall: Fristen und Besonderheiten aus §§ 560 ff ZPO prüfen. 
 5. Rechtsfolge für den konkreten Sachverhalt formulieren: Endet das
    Verhältnis, verlängert es sich, und zu welchen Bedingungen?
 
@@ -29,6 +30,7 @@ Lage bei Ablauf (Verlängerung, stillschweigende Erneuerung, Auflösung).
   §§ 1113-1115 als Startpunkt für Ablauf und stillschweigende Erneuerung.
 - Judikatur: Rechtsprechung zu Durchsetzbarkeit und Mindestdauer von
   Befristungen — kein Werkzeug verfügbar, als Lücke deklarieren.
+- Gesetz ZPO (10001699): § 560 ff (Verfahren bei Streitigkeiten aus dem Bestandvertrage).
 
 ## Anschluss-Skills
 - keine (Leaf). Bei Mietzinsfragen wegen Befristungsabschlag:

@@ -21,15 +21,12 @@ Räumungslage.
 4. Vorzeitige Auflösung durch den Bestandgeber: § 1118 ABGB prüfen
    (erheblich nachteiliger Gebrauch, qualifizierter Zinsrückstand);
    durch den Bestandnehmer: § 1117 ABGB.
-5. Räumungsfolge darstellen: worauf stützt sich das Räumungsbegehren
-   (titellose Benützung nach Beendigung vs. aufrechtes Verhältnis)?
-   Verfahrensrecht (ZPO/EO) ist nicht in den Daten — als Lücke deklarieren.
-6. Fristen und Termine gesondert ausweisen, wenn der Sachverhalt welche
-   enthält.
+5. WICHTIG: §§ 560 - 570 ZPO immer laden und berücksichtigen. Die Antwort muss dieses Teilergebnis enthalten.
 
 ## Quellen
 - Gesetz MRG (10002531): § 30 pinnen (Kündigungsgründe); Gliederung nach
   "Kündigung" durchsuchen.
+- Gesetz ZPO (10001699): §§ 560-570 ZPO (Verfahren bei Streitigkeiten aus dem Bestandvertrage). Die Quelle enthält wichtige Regelungen für Kündigung und anderer Beendigungen. Alle Units laden und berücksichtigen.
 - Gesetz ABGB (10001622): §§ 1117, 1118 pinnen (vorzeitige Auflösung);
   Gliederung nach "Bestandvertrag" für Rückstellungspflichten.
 - Gesetz KSchG (10002462): bei Verbrauchergeschäft Gliederung prüfen.
