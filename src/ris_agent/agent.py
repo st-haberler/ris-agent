@@ -5,12 +5,32 @@ from __future__ import annotations
 
 from langchain.agents import create_agent
 from langchain_core.tools import tool
+from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_ollama import ChatOllama
 
 from . import tools
 from .agent_prompts.system_prompt import build_system_prompt
 
 DEFAULT_MODEL = "gemma4:31b-mlx"
+
+
+def get_system_prompt(skills_dir: str = "skills") -> str:
+    return build_system_prompt(tools.root_skill_body(skills_dir))
+
+
+MODEL_SHORTCUTS: dict[str, str] = {
+    "GEMMA4": "gemma4:31b-mlx",
+    "QWEN35": "qwen3.5:35b",
+    "QWEN36": "qwen3.6:35b-mlx",
+    "GEMINI": "gemini-2.5-flash",
+}
+
+
+def _build_llm(model: str):
+    model = MODEL_SHORTCUTS.get(model, model)
+    if model.startswith("gemini"):
+        return ChatGoogleGenerativeAI(model=model, temperature=0.2)
+    return ChatOllama(model=model, temperature=0.2, reasoning=True)
 
 
 def build_agent(
@@ -68,7 +88,7 @@ def build_agent(
         except ValueError as exc:
             return str(exc)
 
-    llm = ChatOllama(model=model, temperature=0.2)
+    llm = _build_llm(model)
     return create_agent(
         model=llm,
         tools=[list_laws, find_units, load_units, load_skill],

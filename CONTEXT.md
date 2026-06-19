@@ -59,3 +59,17 @@ The component that fetches a Law's Unit list and Unit contents from the RIS OGD 
 
 **Parser**:
 The component that extracts Headlines, computes Paths and Effective Titles, producing the Unit list and the Headline tree.
+
+## Reporting
+
+**Run**:
+One end-to-end agent execution: a single Frage in, a final answer out. Produces one Report.
+_Avoid_: session, request, invocation
+
+**Step**:
+One LangGraph node execution within a Run — either an LLM invocation (agent node) or a tool execution (tools node). The Step captures the full message context at that point plus any token and timing metadata.
+_Avoid_: event, call, iteration
+
+**Report**:
+The persisted output of a Run: a `.jsonl` event log and a standalone `.html` file, both written to `reports/`. The HTML is generated from the JSONL after the Run completes.
+_Avoid_: log, trace, output
